@@ -2,7 +2,7 @@ const fs = require("fs");
 const xml2js = require("xml2js");
 
 const permissionSetPath =
-  "force-app/main/default/permissionsets/sfdc_c360a_sfdctrust_permSet.permissionset-meta.xml";
+  "tmp/permissionsets/sfdc_c360a_sfdctrust_permSet.permissionset-meta.xml";
 
 const updatePerms = (objectApiNameArray) => {
   // Read the XML file

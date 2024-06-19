@@ -1,11 +1,7 @@
 
 # Retrieveing data kit
 
-`sf project retrieve start -x data-app/main/default/package.xml -r mdapi`
-
-convert it to new format
-
-`sf project convert mdapi -r output -d data-app`
+`sf project retrieve start -m DataSourceBundleDefinition -m DataStreamTemplate -m DataPackageKitDefinition -m DataPackageKitObject -m FieldSrcTrgtRelationship -m DataCalcInsightTemplate -m DataSourceObject -m DataSource -m DataSrcDataModelFieldMap -m CustomObject:Adoption_Event_c_00DDa000001Wc5U__dlm -m CustomObject:Adoption_Event_Volunteer_00DDa000001__dlm -o {YOUR DEV ORG} -r data-app/`
 
 
 ## deployment
@@ -31,7 +27,7 @@ Add Adoption Event Volunteer to the related lists section.
 
 #### Data Cloud Prep
 
-Update permissions for Data Cloud Salesforce Connector
+Update permissions for Data Cloud Salesforce Connector, this can be done manually or via a script. 
 
 ##### Manual
 
@@ -47,16 +43,20 @@ Update permissions for Data Cloud Salesforce Connector
 
 ##### Scripted
 
-`sf project retrieve start -m permissionSet:sfdc_c360a_sfdctrust_permSet`
+`sf project retrieve start -m permissionSet:sfdc_c360a_sfdctrust_permSet --output-dir tmp`
 
 Script will look at all objects in your force-app directory and add object and field level read permissions
 
-`node updateDCConnectorPerms.js`
+`npm run updateDCConnectorPerms.js`
 
 Deploy the update back to your org
 
-`sf project deploy start -m permissionSet:sfdc_c360a_sfdctrust_permSet`
+`sf project deploy start --source-dir tmp/`
+
+Remove the tmp/ folder to avoid any confusion
+
+`rm -rf tmp/`
 
 ### 2 - Deploy Data Cloud Extension
 
-`sf project deploy start --source-dir data-app`
+`sf project deploy start --source-dir data-app -o {YOUR NEW ORG}`

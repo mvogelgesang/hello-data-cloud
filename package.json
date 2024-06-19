@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Salesforce App",
   "scripts": {
+    "dcPermUpdate": "node scripts/updateDCConnectorPerms.js",
     "lint": "eslint **/{aura,lwc}/**/*.js",
     "test": "npm run test:unit",
     "test:unit": "sfdx-lwc-jest",

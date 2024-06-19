@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSourceObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataSource>Salesforce_00DDa000001Wc5U</dataSource>
-    <externalRecordIdentifier>Adoption_Event__c</externalRecordIdentifier>
-    <masterLabel>Adoption_Event__c</masterLabel>
-</DataSourceObject>
