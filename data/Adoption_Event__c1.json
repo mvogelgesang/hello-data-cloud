@@ -1,0 +1,3462 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef1"
+      },
+      "Address_1__c": "686 Brookside Drive",
+      "Address_2__c": "Unit 1711",
+      "Name": "Light sea green",
+      "Cat_Capacity__c": 44,
+      "Dog_Capacity__c": -29,
+      "City__c": "Clinton",
+      "End__c": "2020-05-20T00:35:22.000+0000",
+      "Location_Name__c": "Computer Games, Inc.",
+      "Phone__c": "(219) 502-9831",
+      "Postal_Code__c": "48305",
+      "Start__c": "2020-05-20T00:35:22.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef2"
+      },
+      "Address_1__c": "4178 Summit Avenue",
+      "Name": "Fuchsia rose",
+      "Cat_Capacity__c": -15,
+      "Dog_Capacity__c": 12,
+      "City__c": "San Simeon",
+      "End__c": "2019-05-02T05:02:46.000+0000",
+      "Location_Name__c": "The Computer Networking Company",
+      "Phone__c": "(430) 130-7982",
+      "Postal_Code__c": "93452",
+      "Start__c": "2019-05-02T05:02:46.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef3"
+      },
+      "Address_1__c": "953 Winding Way",
+      "Name": "Blue-violet",
+      "Cat_Capacity__c": -93,
+      "Dog_Capacity__c": -72,
+      "City__c": "El Paso",
+      "End__c": "2015-07-28T22:19:07.000+0000",
+      "Location_Name__c": "Advertising, Ltd.",
+      "Phone__c": "(903) 709-7560",
+      "Postal_Code__c": "88553",
+      "Start__c": "2015-07-28T22:19:07.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef4"
+      },
+      "Address_1__c": "455 Brookside Drive",
+      "Address_2__c": "Unit 2316",
+      "Name": "Lime green",
+      "Cat_Capacity__c": -73,
+      "Dog_Capacity__c": 11,
+      "City__c": "Riverton",
+      "End__c": "2013-02-02T10:32:12.000+0000",
+      "Location_Name__c": "Construction, Ltd.",
+      "Phone__c": "(843) 528-2888",
+      "Postal_Code__c": "82501",
+      "Start__c": "2013-02-02T10:32:12.000+0000",
+      "State__c": "WY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef5"
+      },
+      "Address_1__c": "996 3rd Street West",
+      "Address_2__c": "Apt 1416",
+      "Name": "Maroon",
+      "Cat_Capacity__c": 109,
+      "Dog_Capacity__c": -36,
+      "City__c": "Eccles",
+      "End__c": "2024-03-23T16:11:03.000+0000",
+      "Location_Name__c": "Telecommunications, LLC",
+      "Phone__c": "(606) 744-1267",
+      "Postal_Code__c": "25836",
+      "Start__c": "2024-03-23T16:11:03.000+0000",
+      "State__c": "WV"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef6"
+      },
+      "Address_1__c": "949 6th Street West",
+      "Name": "Buff",
+      "Cat_Capacity__c": -65,
+      "Dog_Capacity__c": -108,
+      "City__c": "Erie",
+      "End__c": "2022-08-19T20:55:51.000+0000",
+      "Location_Name__c": "Professional Training, Ltd.",
+      "Phone__c": "(320) 536-9525",
+      "Postal_Code__c": "16510",
+      "Start__c": "2022-08-19T20:55:51.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef7"
+      },
+      "Address_1__c": "5 Franklin Avenue",
+      "Address_2__c": "Apt 34",
+      "Name": "Almond",
+      "Cat_Capacity__c": 122,
+      "Dog_Capacity__c": 67,
+      "City__c": "Nilwood",
+      "End__c": "2018-06-11T00:10:17.000+0000",
+      "Location_Name__c": "Food Production, Inc.",
+      "Phone__c": "(401) 548-0666",
+      "Postal_Code__c": "62672",
+      "Start__c": "2018-06-11T00:10:17.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef8"
+      },
+      "Address_1__c": "844 Monroe Street",
+      "Name": "Slate blue",
+      "Cat_Capacity__c": 7,
+      "Dog_Capacity__c": -79,
+      "City__c": "Bossier City",
+      "End__c": "2016-02-01T14:47:19.000+0000",
+      "Location_Name__c": "Furniture, Incorporated",
+      "Phone__c": "(215) 872-3895",
+      "Postal_Code__c": "71111",
+      "Start__c": "2016-02-01T14:47:19.000+0000",
+      "State__c": "LA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef9"
+      },
+      "Address_1__c": "973 Highland Avenue",
+      "Name": "Kobicha",
+      "Cat_Capacity__c": 13,
+      "Dog_Capacity__c": -112,
+      "City__c": "Viola",
+      "End__c": "2019-05-19T00:55:02.000+0000",
+      "Location_Name__c": "The Publishing Company",
+      "Phone__c": "(469) 274-4797",
+      "Postal_Code__c": "72583",
+      "Start__c": "2019-05-19T00:55:02.000+0000",
+      "State__c": "AR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef10"
+      },
+      "Address_1__c": "59057 4th Street",
+      "Name": "Electric violet",
+      "Cat_Capacity__c": -48,
+      "Dog_Capacity__c": -32,
+      "City__c": "Vance",
+      "End__c": "2018-04-20T17:26:15.000+0000",
+      "Location_Name__c": "The Computer Hardware Company",
+      "Phone__c": "(727) 289-1074",
+      "Postal_Code__c": "38964",
+      "Start__c": "2018-04-20T17:26:15.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef11"
+      },
+      "Address_1__c": "2781 3rd Street West",
+      "Name": "Coyote brown",
+      "Cat_Capacity__c": -120,
+      "Dog_Capacity__c": -64,
+      "City__c": "Pilot Mound",
+      "End__c": "2018-10-26T12:52:53.000+0000",
+      "Location_Name__c": "Computer Games Co.",
+      "Phone__c": "(469) 169-7000",
+      "Postal_Code__c": "50223",
+      "Start__c": "2018-10-26T12:52:53.000+0000",
+      "State__c": "IA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef12"
+      },
+      "Address_1__c": "9052 Railroad Avenue",
+      "Address_2__c": "Apt 207",
+      "Name": "Aero",
+      "Cat_Capacity__c": 9,
+      "Dog_Capacity__c": -59,
+      "City__c": "Dormansville",
+      "End__c": "2013-02-24T11:41:59.000+0000",
+      "Location_Name__c": "Fashion, LLC",
+      "Phone__c": "(857) 258-9989",
+      "Postal_Code__c": "12055",
+      "Start__c": "2013-02-24T11:41:59.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef13"
+      },
+      "Address_1__c": "62 11th Street",
+      "Name": "Old silver",
+      "Cat_Capacity__c": -42,
+      "Dog_Capacity__c": 66,
+      "City__c": "Dallas",
+      "End__c": "2020-02-13T12:34:28.000+0000",
+      "Location_Name__c": "Performing Arts, LLC",
+      "Phone__c": "(646) 077-1051",
+      "Postal_Code__c": "75263",
+      "Start__c": "2020-02-13T12:34:28.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef14"
+      },
+      "Address_1__c": "438 Hickory Lane",
+      "Name": "Heliotrope gray",
+      "Cat_Capacity__c": 42,
+      "Dog_Capacity__c": -6,
+      "City__c": "Lake City",
+      "End__c": "2023-08-01T02:38:57.000+0000",
+      "Location_Name__c": "The Printing Company",
+      "Phone__c": "(605) 981-4480",
+      "Postal_Code__c": "32056",
+      "Start__c": "2023-08-01T02:38:57.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef15"
+      },
+      "Address_1__c": "451 Belmont Avenue",
+      "Name": "Japanese violet",
+      "Cat_Capacity__c": -53,
+      "Dog_Capacity__c": -20,
+      "City__c": "West Creek",
+      "End__c": "2011-02-13T16:45:37.000+0000",
+      "Location_Name__c": "Electrical Manufacturing, Incorporated",
+      "Phone__c": "(772) 743-6041",
+      "Postal_Code__c": "08092",
+      "Start__c": "2011-02-13T16:45:37.000+0000",
+      "State__c": "NJ"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef16"
+      },
+      "Address_1__c": "914 Highland Drive",
+      "Name": "Canary yellow",
+      "Cat_Capacity__c": 68,
+      "Dog_Capacity__c": 126,
+      "City__c": "Lowell",
+      "End__c": "2017-02-10T17:27:29.000+0000",
+      "Location_Name__c": "Sales, Inc.",
+      "Phone__c": "(505) 999-9178",
+      "Postal_Code__c": "53557",
+      "Start__c": "2017-02-10T17:27:29.000+0000",
+      "State__c": "WI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef17"
+      },
+      "Address_1__c": "1707 Highland Drive",
+      "Name": "Steel Teal",
+      "Cat_Capacity__c": 91,
+      "Dog_Capacity__c": 92,
+      "City__c": "Milwaukee",
+      "End__c": "2015-11-18T17:58:00.000+0000",
+      "Location_Name__c": "Paper Products, Incorporated",
+      "Phone__c": "(914) 596-1100",
+      "Postal_Code__c": "53259",
+      "Start__c": "2015-11-18T17:58:00.000+0000",
+      "State__c": "WI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef18"
+      },
+      "Address_1__c": "49298 River Street",
+      "Name": "Earth yellow",
+      "Cat_Capacity__c": -51,
+      "Dog_Capacity__c": 61,
+      "City__c": "Toone",
+      "End__c": "2019-05-01T19:33:17.000+0000",
+      "Location_Name__c": "Environmental Services, Inc.",
+      "Phone__c": "(810) 932-0128",
+      "Postal_Code__c": "38384",
+      "Start__c": "2019-05-01T19:33:17.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef19"
+      },
+      "Address_1__c": "57 Valley Road",
+      "Name": "Titanium yellow",
+      "Cat_Capacity__c": -104,
+      "Dog_Capacity__c": 59,
+      "City__c": "Cheshire",
+      "End__c": "2021-06-09T07:27:42.000+0000",
+      "Location_Name__c": "Wine Corp.",
+      "Phone__c": "(508) 978-3624",
+      "Postal_Code__c": "97419",
+      "Start__c": "2021-06-09T07:27:42.000+0000",
+      "State__c": "OR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef20"
+      },
+      "Address_1__c": "602 Broadway",
+      "Address_2__c": "Unit 132",
+      "Name": "Vivid tangerine",
+      "Cat_Capacity__c": -55,
+      "Dog_Capacity__c": -5,
+      "City__c": "Hillsboro",
+      "End__c": "2019-11-06T16:32:17.000+0000",
+      "Location_Name__c": "Fishery Corp.",
+      "Phone__c": "(301) 121-7000",
+      "Postal_Code__c": "76645",
+      "Start__c": "2019-11-06T16:32:17.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef21"
+      },
+      "Address_1__c": "8369 Division Street",
+      "Name": "Steel pink",
+      "Cat_Capacity__c": 45,
+      "Dog_Capacity__c": -73,
+      "City__c": "Manchester",
+      "End__c": "2014-12-28T14:03:37.000+0000",
+      "Location_Name__c": "Luxury Goods Co.",
+      "Phone__c": "(920) 293-2093",
+      "Postal_Code__c": "03111",
+      "Start__c": "2014-12-28T14:03:37.000+0000",
+      "State__c": "NH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef22"
+      },
+      "Address_1__c": "592 Circle Drive",
+      "Name": "Dark cyan",
+      "Cat_Capacity__c": 39,
+      "Dog_Capacity__c": -11,
+      "City__c": "Willis",
+      "End__c": "2011-08-04T16:03:09.000+0000",
+      "Location_Name__c": "Glass Corp.",
+      "Phone__c": "(510) 816-6395",
+      "Postal_Code__c": "48191",
+      "Start__c": "2011-08-04T16:03:09.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef23"
+      },
+      "Address_1__c": "48968 Fairway Drive",
+      "Address_2__c": "Unit 515",
+      "Name": "Flame",
+      "Cat_Capacity__c": -15,
+      "Dog_Capacity__c": -92,
+      "City__c": "Stafford",
+      "End__c": "2017-04-29T13:54:45.000+0000",
+      "Location_Name__c": "Consumer Services Corp.",
+      "Phone__c": "(858) 464-3326",
+      "Postal_Code__c": "77497",
+      "Start__c": "2017-04-29T13:54:45.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef24"
+      },
+      "Address_1__c": "157 South Street",
+      "Address_2__c": "Unit 620",
+      "Name": "Chartreuse",
+      "Cat_Capacity__c": 47,
+      "Dog_Capacity__c": 65,
+      "City__c": "York New Salem",
+      "End__c": "2018-02-05T01:35:05.000+0000",
+      "Location_Name__c": "Electrical Manufacturing, LLC",
+      "Phone__c": "(202) 504-2159",
+      "Postal_Code__c": "17371",
+      "Start__c": "2018-02-05T01:35:05.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef25"
+      },
+      "Address_1__c": "293 Prospect Avenue",
+      "Name": "Jungle green",
+      "Cat_Capacity__c": 94,
+      "Dog_Capacity__c": 0,
+      "City__c": "Riddle",
+      "End__c": "2015-12-16T19:35:56.000+0000",
+      "Location_Name__c": "Translation Co.",
+      "Phone__c": "(443) 010-3148",
+      "Postal_Code__c": "97469",
+      "Start__c": "2015-12-16T19:35:56.000+0000",
+      "State__c": "OR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef26"
+      },
+      "Address_1__c": "41811 Main Street West",
+      "Name": "Dark turquoise",
+      "Cat_Capacity__c": -99,
+      "Dog_Capacity__c": 81,
+      "City__c": "Buffalo Junction",
+      "End__c": "2022-06-19T19:54:08.000+0000",
+      "Location_Name__c": "Sports Co.",
+      "Phone__c": "(414) 585-8800",
+      "Postal_Code__c": "24529",
+      "Start__c": "2022-06-19T19:54:08.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef27"
+      },
+      "Address_1__c": "36373 Williams Street",
+      "Address_2__c": "Unit 1811",
+      "Name": "Lavender blue",
+      "Cat_Capacity__c": -125,
+      "Dog_Capacity__c": -67,
+      "City__c": "Port Hueneme",
+      "End__c": "2022-10-03T02:53:31.000+0000",
+      "Location_Name__c": "The Utilities Company",
+      "Phone__c": "(331) 228-4483",
+      "Postal_Code__c": "93044",
+      "Start__c": "2022-10-03T02:53:31.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef28"
+      },
+      "Address_1__c": "7690 Grant Street",
+      "Name": "Green-yellow",
+      "Cat_Capacity__c": -35,
+      "Dog_Capacity__c": -34,
+      "City__c": "Orem",
+      "End__c": "2018-10-18T06:24:52.000+0000",
+      "Location_Name__c": "Wine, Inc.",
+      "Phone__c": "(980) 284-9357",
+      "Postal_Code__c": "84059",
+      "Start__c": "2018-10-18T06:24:52.000+0000",
+      "State__c": "UT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef29"
+      },
+      "Address_1__c": "43 Maple Street",
+      "Name": "Light yellow",
+      "Cat_Capacity__c": -80,
+      "Dog_Capacity__c": 105,
+      "City__c": "Rangeley",
+      "End__c": "2021-01-27T20:44:36.000+0000",
+      "Location_Name__c": "Logistics, Inc.",
+      "Phone__c": "(707) 983-4281",
+      "Postal_Code__c": "04970",
+      "Start__c": "2021-01-27T20:44:36.000+0000",
+      "State__c": "ME"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef30"
+      },
+      "Address_1__c": "1182 Harrison Street",
+      "Name": "Yellow",
+      "Cat_Capacity__c": -118,
+      "Dog_Capacity__c": 60,
+      "City__c": "El Paso",
+      "End__c": "2017-09-21T14:16:59.000+0000",
+      "Location_Name__c": "Plastics, LLC",
+      "Phone__c": "(850) 645-0159",
+      "Postal_Code__c": "79976",
+      "Start__c": "2017-09-21T14:16:59.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef31"
+      },
+      "Address_1__c": "4422 Bridge Street",
+      "Address_2__c": "Apt 1618",
+      "Name": "Rose",
+      "Cat_Capacity__c": 26,
+      "Dog_Capacity__c": -119,
+      "City__c": "Burlington",
+      "End__c": "2016-07-21T07:25:45.000+0000",
+      "Location_Name__c": "Energy, LLC",
+      "Phone__c": "(757) 830-5124",
+      "Postal_Code__c": "05402",
+      "Start__c": "2016-07-21T07:25:45.000+0000",
+      "State__c": "VT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef32"
+      },
+      "Address_1__c": "233 Buckingham Drive",
+      "Address_2__c": "Apt 919",
+      "Name": "Japanese carmine",
+      "Cat_Capacity__c": -63,
+      "Dog_Capacity__c": 25,
+      "City__c": "Phippsburg",
+      "End__c": "2011-03-29T07:29:03.000+0000",
+      "Location_Name__c": "Electrical Manufacturing Co.",
+      "Phone__c": "(786) 715-0853",
+      "Postal_Code__c": "80469",
+      "Start__c": "2011-03-29T07:29:03.000+0000",
+      "State__c": "CO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef33"
+      },
+      "Address_1__c": "41081 Route 32",
+      "Name": "Vivid violet",
+      "Cat_Capacity__c": 123,
+      "Dog_Capacity__c": -35,
+      "City__c": "Pasadena",
+      "End__c": "2014-05-04T14:49:58.000+0000",
+      "Location_Name__c": "Retail Corp.",
+      "Phone__c": "(360) 695-7573",
+      "Postal_Code__c": "91115",
+      "Start__c": "2014-05-04T14:49:58.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef34"
+      },
+      "Address_1__c": "53423 Dogwood Lane",
+      "Name": "Blue",
+      "Cat_Capacity__c": 38,
+      "Dog_Capacity__c": -75,
+      "City__c": "Jerome",
+      "End__c": "2014-12-14T23:10:03.000+0000",
+      "Location_Name__c": "Advertising, Ltd.",
+      "Phone__c": "(574) 917-5122",
+      "Postal_Code__c": "49249",
+      "Start__c": "2014-12-14T23:10:03.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef35"
+      },
+      "Address_1__c": "281 Bridge Street",
+      "Address_2__c": "Unit 187",
+      "Name": "Neon Carrot",
+      "Cat_Capacity__c": -36,
+      "Dog_Capacity__c": -83,
+      "City__c": "Bent",
+      "End__c": "2022-03-04T05:21:01.000+0000",
+      "Location_Name__c": "Writing, Ltd.",
+      "Phone__c": "(610) 262-1291",
+      "Postal_Code__c": "88314",
+      "Start__c": "2022-03-04T05:21:01.000+0000",
+      "State__c": "NM"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef36"
+      },
+      "Address_1__c": "82 2nd Avenue",
+      "Name": "Papaya whip",
+      "Cat_Capacity__c": -70,
+      "Dog_Capacity__c": -83,
+      "City__c": "Fargo",
+      "End__c": "2022-06-05T21:18:55.000+0000",
+      "Location_Name__c": "Semiconductors, LLC",
+      "Phone__c": "(248) 148-0117",
+      "Postal_Code__c": "58125",
+      "Start__c": "2022-06-05T21:18:55.000+0000",
+      "State__c": "ND"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef37"
+      },
+      "Address_1__c": "92 Essex Court",
+      "Address_2__c": "Apt 155",
+      "Name": "Dark electric blue",
+      "Cat_Capacity__c": 84,
+      "Dog_Capacity__c": 77,
+      "City__c": "Lublin",
+      "End__c": "2017-11-30T10:53:43.000+0000",
+      "Location_Name__c": "The Computer Software Company",
+      "Phone__c": "(314) 760-4574",
+      "Postal_Code__c": "54447",
+      "Start__c": "2017-11-30T10:53:43.000+0000",
+      "State__c": "WI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef38"
+      },
+      "Address_1__c": "11956 Fairview Avenue",
+      "Address_2__c": "Apt 211",
+      "Name": "Heliotrope",
+      "Cat_Capacity__c": -115,
+      "Dog_Capacity__c": -58,
+      "City__c": "Ludlow",
+      "End__c": "2018-07-01T18:50:22.000+0000",
+      "Location_Name__c": "Real Estate, Inc.",
+      "Phone__c": "(848) 516-8494",
+      "Postal_Code__c": "39098",
+      "Start__c": "2018-07-01T18:50:22.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef39"
+      },
+      "Address_1__c": "249 Holly Drive",
+      "Name": "Green",
+      "Cat_Capacity__c": -86,
+      "Dog_Capacity__c": -45,
+      "City__c": "San Francisco",
+      "End__c": "2015-07-05T21:39:14.000+0000",
+      "Location_Name__c": "Movie Production, LLC",
+      "Phone__c": "(774) 722-8602",
+      "Postal_Code__c": "94136",
+      "Start__c": "2015-07-05T21:39:14.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef40"
+      },
+      "Address_1__c": "652 Ridge Road",
+      "Name": "Shocking pink",
+      "Cat_Capacity__c": 110,
+      "Dog_Capacity__c": -57,
+      "City__c": "Pikeville",
+      "End__c": "2012-03-30T13:13:39.000+0000",
+      "Location_Name__c": "Music, Ltd.",
+      "Phone__c": "(810) 217-6568",
+      "Postal_Code__c": "41502",
+      "Start__c": "2012-03-30T13:13:39.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef41"
+      },
+      "Address_1__c": "40046 Hillside Avenue",
+      "Name": "Celadon blue",
+      "Cat_Capacity__c": 123,
+      "Dog_Capacity__c": -102,
+      "City__c": "Hodges",
+      "End__c": "2011-07-07T23:42:04.000+0000",
+      "Location_Name__c": "Music Corp.",
+      "Phone__c": "(386) 631-1175",
+      "Postal_Code__c": "29695",
+      "Start__c": "2011-07-07T23:42:04.000+0000",
+      "State__c": "SC"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef42"
+      },
+      "Address_1__c": "26 Academy Street",
+      "Name": "Spring green",
+      "Cat_Capacity__c": 105,
+      "Dog_Capacity__c": -110,
+      "City__c": "Akron",
+      "End__c": "2020-02-19T14:00:49.000+0000",
+      "Location_Name__c": "Dairy Co.",
+      "Phone__c": "(539) 023-2876",
+      "Postal_Code__c": "44314",
+      "Start__c": "2020-02-19T14:00:49.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef43"
+      },
+      "Address_1__c": "89058 Lincoln Street",
+      "Name": "Unmellow yellow",
+      "Cat_Capacity__c": 15,
+      "Dog_Capacity__c": 123,
+      "City__c": "Iowa City",
+      "End__c": "2023-10-31T18:15:10.000+0000",
+      "Location_Name__c": "Journalism, Inc.",
+      "Phone__c": "(858) 632-2749",
+      "Postal_Code__c": "52246",
+      "Start__c": "2023-10-31T18:15:10.000+0000",
+      "State__c": "IA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef44"
+      },
+      "Address_1__c": "433 7th Street East",
+      "Name": "Windsor tan",
+      "Cat_Capacity__c": -60,
+      "Dog_Capacity__c": 86,
+      "City__c": "Albany",
+      "End__c": "2015-05-15T20:24:51.000+0000",
+      "Location_Name__c": "The Sports Company",
+      "Phone__c": "(508) 198-9136",
+      "Postal_Code__c": "74721",
+      "Start__c": "2015-05-15T20:24:51.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef45"
+      },
+      "Address_1__c": "9 3rd Avenue",
+      "Name": "Red-violet",
+      "Cat_Capacity__c": 78,
+      "Dog_Capacity__c": -120,
+      "City__c": "Janesville",
+      "End__c": "2017-10-21T12:07:06.000+0000",
+      "Location_Name__c": "Media Production, Incorporated",
+      "Phone__c": "(334) 566-8817",
+      "Postal_Code__c": "62435",
+      "Start__c": "2017-10-21T12:07:06.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef46"
+      },
+      "Address_1__c": "76294 Virginia Avenue",
+      "Name": "Ruby red",
+      "Cat_Capacity__c": -60,
+      "Dog_Capacity__c": -82,
+      "City__c": "Orange Grove",
+      "End__c": "2022-03-31T09:16:56.000+0000",
+      "Location_Name__c": "Fitness, Ltd.",
+      "Phone__c": "(406) 275-0074",
+      "Postal_Code__c": "78372",
+      "Start__c": "2022-03-31T09:16:56.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef47"
+      },
+      "Address_1__c": "27014 7th Street",
+      "Address_2__c": "Unit 107",
+      "Name": "Salmon pink",
+      "Cat_Capacity__c": 103,
+      "Dog_Capacity__c": 81,
+      "City__c": "Savoonga",
+      "End__c": "2011-06-01T05:52:16.000+0000",
+      "Location_Name__c": "The Veterinary Company",
+      "Phone__c": "(276) 799-9058",
+      "Postal_Code__c": "99769",
+      "Start__c": "2011-06-01T05:52:16.000+0000",
+      "State__c": "AK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef48"
+      },
+      "Address_1__c": "618 Main Street South",
+      "Name": "Dim gray",
+      "Cat_Capacity__c": -71,
+      "Dog_Capacity__c": -108,
+      "City__c": "Tishomingo",
+      "End__c": "2020-08-04T13:44:13.000+0000",
+      "Location_Name__c": "The Services Company",
+      "Phone__c": "(301) 174-2835",
+      "Postal_Code__c": "73460",
+      "Start__c": "2020-08-04T13:44:13.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef49"
+      },
+      "Address_1__c": "25 4th Street West",
+      "Name": "Cardinal",
+      "Cat_Capacity__c": 8,
+      "Dog_Capacity__c": -67,
+      "City__c": "Gainesboro",
+      "End__c": "2020-10-28T03:28:10.000+0000",
+      "Location_Name__c": "Motion Pictures Corp.",
+      "Phone__c": "(585) 027-1669",
+      "Postal_Code__c": "38562",
+      "Start__c": "2020-10-28T03:28:10.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef50"
+      },
+      "Address_1__c": "827 Center Street",
+      "Address_2__c": "Apt 1720",
+      "Name": "Celadon blue",
+      "Cat_Capacity__c": 87,
+      "Dog_Capacity__c": -60,
+      "City__c": "Greenville",
+      "End__c": "2010-07-27T03:22:22.000+0000",
+      "Location_Name__c": "Procurement, Inc.",
+      "Phone__c": "(571) 555-7770",
+      "Postal_Code__c": "75403",
+      "Start__c": "2010-07-27T03:22:22.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef51"
+      },
+      "Address_1__c": "33 Chestnut Street",
+      "Address_2__c": "Apt 114",
+      "Name": "Lavender blush",
+      "Cat_Capacity__c": 82,
+      "Dog_Capacity__c": 43,
+      "City__c": "Lake Benton",
+      "End__c": "2024-03-05T22:43:04.000+0000",
+      "Location_Name__c": "The Journalism Company",
+      "Phone__c": "(952) 661-7145",
+      "Postal_Code__c": "56149",
+      "Start__c": "2024-03-05T22:43:04.000+0000",
+      "State__c": "MN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef52"
+      },
+      "Address_1__c": "8849 Creek Road",
+      "Name": "Dogwood rose",
+      "Cat_Capacity__c": -61,
+      "Dog_Capacity__c": 43,
+      "City__c": "Prairie Creek",
+      "End__c": "2016-03-03T04:23:51.000+0000",
+      "Location_Name__c": "The Environmental Services Company",
+      "Phone__c": "(304) 751-4913",
+      "Postal_Code__c": "47869",
+      "Start__c": "2016-03-03T04:23:51.000+0000",
+      "State__c": "IN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef53"
+      },
+      "Address_1__c": "69959 Charles Street",
+      "Address_2__c": "Apt 203",
+      "Name": "Gold",
+      "Cat_Capacity__c": 14,
+      "Dog_Capacity__c": -39,
+      "City__c": "Golden",
+      "End__c": "2023-08-10T04:15:19.000+0000",
+      "Location_Name__c": "Network Security, Inc.",
+      "Phone__c": "(918) 976-3094",
+      "Postal_Code__c": "80419",
+      "Start__c": "2023-08-10T04:15:19.000+0000",
+      "State__c": "CO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef54"
+      },
+      "Address_1__c": "970 5th Street West",
+      "Name": "Spring green",
+      "Cat_Capacity__c": 79,
+      "Dog_Capacity__c": -12,
+      "City__c": "Baltimore",
+      "End__c": "2016-07-22T09:19:28.000+0000",
+      "Location_Name__c": "Security, LLC",
+      "Phone__c": "(657) 167-2786",
+      "Postal_Code__c": "21250",
+      "Start__c": "2016-07-22T09:19:28.000+0000",
+      "State__c": "MD"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef55"
+      },
+      "Address_1__c": "67 Walnut Street",
+      "Name": "Peach",
+      "Cat_Capacity__c": -39,
+      "Dog_Capacity__c": 61,
+      "City__c": "Piedmont",
+      "End__c": "2022-02-14T18:55:58.000+0000",
+      "Location_Name__c": "Gambling, LLC",
+      "Phone__c": "(720) 135-2865",
+      "Postal_Code__c": "63957",
+      "Start__c": "2022-02-14T18:55:58.000+0000",
+      "State__c": "MO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef56"
+      },
+      "Address_1__c": "540 6th Street",
+      "Address_2__c": "Apt 1621",
+      "Name": "Spring Frost",
+      "Cat_Capacity__c": 93,
+      "Dog_Capacity__c": 6,
+      "City__c": "Crozet",
+      "End__c": "2019-10-31T14:09:29.000+0000",
+      "Location_Name__c": "Utilities, Incorporated",
+      "Phone__c": "(935) 853-0874",
+      "Postal_Code__c": "22932",
+      "Start__c": "2019-10-31T14:09:29.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef57"
+      },
+      "Address_1__c": "77 Park Place",
+      "Name": "Green-blue",
+      "Cat_Capacity__c": -30,
+      "Dog_Capacity__c": -72,
+      "City__c": "Fort Lauderdale",
+      "End__c": "2022-03-19T10:49:46.000+0000",
+      "Location_Name__c": "The Glass Company",
+      "Phone__c": "(856) 538-9306",
+      "Postal_Code__c": "33315",
+      "Start__c": "2022-03-19T10:49:46.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef58"
+      },
+      "Address_1__c": "17 Division Street",
+      "Name": "Persian green",
+      "Cat_Capacity__c": -121,
+      "Dog_Capacity__c": -116,
+      "City__c": "Verner",
+      "End__c": "2013-09-23T00:44:48.000+0000",
+      "Location_Name__c": "Plastics Co.",
+      "Phone__c": "(714) 870-0734",
+      "Postal_Code__c": "25650",
+      "Start__c": "2013-09-23T00:44:48.000+0000",
+      "State__c": "WV"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef59"
+      },
+      "Address_1__c": "1714 Lincoln Street",
+      "Name": "Light coral",
+      "Cat_Capacity__c": -78,
+      "Dog_Capacity__c": 49,
+      "City__c": "Montalba",
+      "End__c": "2021-07-14T16:20:21.000+0000",
+      "Location_Name__c": "Aviation Co.",
+      "Phone__c": "(386) 964-8417",
+      "Postal_Code__c": "75853",
+      "Start__c": "2021-07-14T16:20:21.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef60"
+      },
+      "Address_1__c": "96 Virginia Avenue",
+      "Address_2__c": "Apt 44",
+      "Name": "Maximum yellow red",
+      "Cat_Capacity__c": 58,
+      "Dog_Capacity__c": -86,
+      "City__c": "Salem",
+      "End__c": "2010-06-18T20:22:41.000+0000",
+      "Location_Name__c": "Computer Engineering, LLC",
+      "Phone__c": "(828) 790-4632",
+      "Postal_Code__c": "87941",
+      "Start__c": "2010-06-18T20:22:41.000+0000",
+      "State__c": "NM"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef61"
+      },
+      "Address_1__c": "74 Highland Drive",
+      "Name": "Sunset",
+      "Cat_Capacity__c": 126,
+      "Dog_Capacity__c": -84,
+      "City__c": "Davenport",
+      "End__c": "2018-02-02T15:09:21.000+0000",
+      "Location_Name__c": "Accounting, LLC",
+      "Phone__c": "(612) 929-7003",
+      "Postal_Code__c": "74026",
+      "Start__c": "2018-02-02T15:09:21.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef62"
+      },
+      "Address_1__c": "838 Riverside Drive",
+      "Address_2__c": "Unit 1110",
+      "Name": "Lemon yellow",
+      "Cat_Capacity__c": -94,
+      "Dog_Capacity__c": 82,
+      "City__c": "Vardaman",
+      "End__c": "2021-12-15T02:56:52.000+0000",
+      "Location_Name__c": "Insurance, Inc.",
+      "Phone__c": "(606) 219-9114",
+      "Postal_Code__c": "38878",
+      "Start__c": "2021-12-15T02:56:52.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef63"
+      },
+      "Address_1__c": "745 Route 6",
+      "Name": "Cadet blue",
+      "Cat_Capacity__c": 47,
+      "Dog_Capacity__c": 95,
+      "City__c": "Port O Connor",
+      "End__c": "2011-01-23T15:14:19.000+0000",
+      "Location_Name__c": "The Film Company",
+      "Phone__c": "(515) 230-3333",
+      "Postal_Code__c": "77982",
+      "Start__c": "2011-01-23T15:14:19.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef64"
+      },
+      "Address_1__c": "68 Valley Road",
+      "Address_2__c": "Apt 1012",
+      "Name": "Persimmon",
+      "Cat_Capacity__c": -83,
+      "Dog_Capacity__c": -121,
+      "City__c": "Hyannis",
+      "End__c": "2013-04-28T20:56:24.000+0000",
+      "Location_Name__c": "Procurement Corp.",
+      "Phone__c": "(760) 985-9515",
+      "Postal_Code__c": "69350",
+      "Start__c": "2013-04-28T20:56:24.000+0000",
+      "State__c": "NE"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef65"
+      },
+      "Address_1__c": "910 Jackson Street",
+      "Name": "Sand dune",
+      "Cat_Capacity__c": 117,
+      "Dog_Capacity__c": -17,
+      "City__c": "Otho",
+      "End__c": "2022-03-11T00:12:47.000+0000",
+      "Location_Name__c": "Security, Ltd.",
+      "Phone__c": "(979) 522-0432",
+      "Postal_Code__c": "50569",
+      "Start__c": "2022-03-11T00:12:47.000+0000",
+      "State__c": "IA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef66"
+      },
+      "Address_1__c": "7338 Pine Street",
+      "Name": "Cinnamon Satin",
+      "Cat_Capacity__c": 46,
+      "Dog_Capacity__c": -27,
+      "City__c": "New River",
+      "End__c": "2023-04-28T12:42:53.000+0000",
+      "Location_Name__c": "The Architecture Company",
+      "Phone__c": "(774) 052-4924",
+      "Postal_Code__c": "24129",
+      "Start__c": "2023-04-28T12:42:53.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef67"
+      },
+      "Address_1__c": "51 Broadway",
+      "Name": "Van Dyke brown",
+      "Cat_Capacity__c": -21,
+      "Dog_Capacity__c": -61,
+      "City__c": "Flora Vista",
+      "End__c": "2019-03-03T02:05:11.000+0000",
+      "Location_Name__c": "The Cosmetics Company",
+      "Phone__c": "(980) 226-2265",
+      "Postal_Code__c": "87415",
+      "Start__c": "2019-03-03T02:05:11.000+0000",
+      "State__c": "NM"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef68"
+      },
+      "Address_1__c": "226 Franklin Avenue",
+      "Name": "Gunmetal",
+      "Cat_Capacity__c": 98,
+      "Dog_Capacity__c": 5,
+      "City__c": "Yorktown",
+      "End__c": "2017-11-06T13:44:09.000+0000",
+      "Location_Name__c": "Health Care, Ltd.",
+      "Phone__c": "(706) 135-1560",
+      "Postal_Code__c": "71678",
+      "Start__c": "2017-11-06T13:44:09.000+0000",
+      "State__c": "AR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef69"
+      },
+      "Address_1__c": "61664 Franklin Avenue",
+      "Address_2__c": "Unit 2114",
+      "Name": "Tufts blue",
+      "Cat_Capacity__c": -25,
+      "Dog_Capacity__c": -127,
+      "City__c": "Prattsville",
+      "End__c": "2020-06-24T12:53:30.000+0000",
+      "Location_Name__c": "Utilities, Incorporated",
+      "Phone__c": "(207) 005-0351",
+      "Postal_Code__c": "72129",
+      "Start__c": "2020-06-24T12:53:30.000+0000",
+      "State__c": "AR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef70"
+      },
+      "Address_1__c": "30 Jefferson Avenue",
+      "Address_2__c": "Apt 123",
+      "Name": "Aquamarine",
+      "Cat_Capacity__c": 87,
+      "Dog_Capacity__c": -20,
+      "City__c": "Franklin",
+      "End__c": "2019-05-17T03:49:40.000+0000",
+      "Location_Name__c": "Construction, Incorporated",
+      "Phone__c": "(409) 288-6898",
+      "Postal_Code__c": "72536",
+      "Start__c": "2019-05-17T03:49:40.000+0000",
+      "State__c": "AR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef71"
+      },
+      "Address_1__c": "46 North Street",
+      "Name": "Apple green",
+      "Cat_Capacity__c": 18,
+      "Dog_Capacity__c": 91,
+      "City__c": "Goodrich",
+      "End__c": "2020-07-21T17:23:22.000+0000",
+      "Location_Name__c": "Food Co.",
+      "Phone__c": "(708) 522-8214",
+      "Postal_Code__c": "58444",
+      "Start__c": "2020-07-21T17:23:22.000+0000",
+      "State__c": "ND"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef72"
+      },
+      "Address_1__c": "7889 1st Street",
+      "Name": "Apricot",
+      "Cat_Capacity__c": 40,
+      "Dog_Capacity__c": 78,
+      "City__c": "Felton",
+      "End__c": "2015-08-22T07:15:00.000+0000",
+      "Location_Name__c": "Public Relations, Incorporated",
+      "Phone__c": "(269) 661-0668",
+      "Postal_Code__c": "17322",
+      "Start__c": "2015-08-22T07:15:00.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef73"
+      },
+      "Address_1__c": "96572 Washington Street",
+      "Address_2__c": "Unit 421",
+      "Name": "Yellow-green",
+      "Cat_Capacity__c": 15,
+      "Dog_Capacity__c": 123,
+      "City__c": "Goshen",
+      "End__c": "2013-11-09T12:06:22.000+0000",
+      "Location_Name__c": "Services, Ltd.",
+      "Phone__c": "(314) 199-6529",
+      "Postal_Code__c": "46526",
+      "Start__c": "2013-11-09T12:06:22.000+0000",
+      "State__c": "IN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef74"
+      },
+      "Address_1__c": "1727 Elm Street",
+      "Name": "Blue sapphire",
+      "Cat_Capacity__c": 31,
+      "Dog_Capacity__c": -8,
+      "City__c": "McClure",
+      "End__c": "2018-08-14T15:58:55.000+0000",
+      "Location_Name__c": "Network Security, Inc.",
+      "Phone__c": "(414) 123-5375",
+      "Postal_Code__c": "43534",
+      "Start__c": "2018-08-14T15:58:55.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef75"
+      },
+      "Address_1__c": "810 River Street",
+      "Name": "Black olive",
+      "Cat_Capacity__c": 63,
+      "Dog_Capacity__c": -77,
+      "City__c": "Middlebury",
+      "End__c": "2022-11-28T04:48:28.000+0000",
+      "Location_Name__c": "Photography Corp.",
+      "Phone__c": "(732) 222-5355",
+      "Postal_Code__c": "46540",
+      "Start__c": "2022-11-28T04:48:28.000+0000",
+      "State__c": "IN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef76"
+      },
+      "Address_1__c": "30497 Route 32",
+      "Name": "Safety orange",
+      "Cat_Capacity__c": 43,
+      "Dog_Capacity__c": -63,
+      "City__c": "New York",
+      "End__c": "2013-12-25T12:18:25.000+0000",
+      "Location_Name__c": "Industrial Automation Co.",
+      "Phone__c": "(478) 696-3009",
+      "Postal_Code__c": "10169",
+      "Start__c": "2013-12-25T12:18:25.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef77"
+      },
+      "Address_1__c": "52053 1st Avenue",
+      "Name": "Vivid violet",
+      "Cat_Capacity__c": -73,
+      "Dog_Capacity__c": -119,
+      "City__c": "Geneva",
+      "End__c": "2017-01-27T00:18:27.000+0000",
+      "Location_Name__c": "The Electronic Manufacturing Company",
+      "Phone__c": "(206) 970-3038",
+      "Postal_Code__c": "56035",
+      "Start__c": "2017-01-27T00:18:27.000+0000",
+      "State__c": "MN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef78"
+      },
+      "Address_1__c": "471 Dogwood Drive",
+      "Address_2__c": "Apt 1510",
+      "Name": "Spanish violet",
+      "Cat_Capacity__c": -63,
+      "Dog_Capacity__c": -66,
+      "City__c": "Londonderry",
+      "End__c": "2010-04-17T00:47:34.000+0000",
+      "Location_Name__c": "Facilities Services, Inc.",
+      "Phone__c": "(231) 508-5084",
+      "Postal_Code__c": "03053",
+      "Start__c": "2010-04-17T00:47:34.000+0000",
+      "State__c": "NH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef79"
+      },
+      "Address_1__c": "9637 Penn Street",
+      "Address_2__c": "Apt 1325",
+      "Name": "Viridian",
+      "Cat_Capacity__c": 104,
+      "Dog_Capacity__c": 90,
+      "City__c": "Schaumburg",
+      "End__c": "2016-04-04T03:10:53.000+0000",
+      "Location_Name__c": "Design, Incorporated",
+      "Phone__c": "(316) 991-1049",
+      "Postal_Code__c": "60168",
+      "Start__c": "2016-04-04T03:10:53.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef80"
+      },
+      "Address_1__c": "586 Market Street",
+      "Name": "Puce",
+      "Cat_Capacity__c": 87,
+      "Dog_Capacity__c": 33,
+      "City__c": "South Burlington",
+      "End__c": "2019-07-22T20:49:55.000+0000",
+      "Location_Name__c": "E-Learning, LLC",
+      "Phone__c": "(201) 440-8588",
+      "Postal_Code__c": "05407",
+      "Start__c": "2019-07-22T20:49:55.000+0000",
+      "State__c": "VT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef81"
+      },
+      "Address_1__c": "93038 Route 30",
+      "Name": "Blue sapphire",
+      "Cat_Capacity__c": 6,
+      "Dog_Capacity__c": -33,
+      "City__c": "Cimarron",
+      "End__c": "2023-03-30T07:23:57.000+0000",
+      "Location_Name__c": "Concrete Corp.",
+      "Phone__c": "(725) 959-0023",
+      "Postal_Code__c": "81220",
+      "Start__c": "2023-03-30T07:23:57.000+0000",
+      "State__c": "CO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef82"
+      },
+      "Address_1__c": "9398 Hillside Drive",
+      "Name": "Spanish violet",
+      "Cat_Capacity__c": -46,
+      "Dog_Capacity__c": 25,
+      "City__c": "Allakaket",
+      "End__c": "2019-02-21T03:57:57.000+0000",
+      "Location_Name__c": "Space, Inc.",
+      "Phone__c": "(754) 893-6304",
+      "Postal_Code__c": "99720",
+      "Start__c": "2019-02-21T03:57:57.000+0000",
+      "State__c": "AK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef83"
+      },
+      "Address_1__c": "4988 Hickory Lane",
+      "Name": "Maximum blue green",
+      "Cat_Capacity__c": -107,
+      "Dog_Capacity__c": 0,
+      "City__c": "Clayton",
+      "End__c": "2013-03-24T06:13:49.000+0000",
+      "Location_Name__c": "Security, Ltd.",
+      "Phone__c": "(530) 044-5190",
+      "Postal_Code__c": "46118",
+      "Start__c": "2013-03-24T06:13:49.000+0000",
+      "State__c": "IN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef84"
+      },
+      "Address_1__c": "124 King Street",
+      "Name": "Violet-red",
+      "Cat_Capacity__c": -23,
+      "Dog_Capacity__c": 76,
+      "City__c": "West Brookfield",
+      "End__c": "2014-10-21T16:42:44.000+0000",
+      "Location_Name__c": "Semiconductors Co.",
+      "Phone__c": "(850) 383-8571",
+      "Postal_Code__c": "01585",
+      "Start__c": "2014-10-21T16:42:44.000+0000",
+      "State__c": "MA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef85"
+      },
+      "Address_1__c": "37 Lake Street",
+      "Name": "Charm pink",
+      "Cat_Capacity__c": 113,
+      "Dog_Capacity__c": -82,
+      "City__c": "West Blocton",
+      "End__c": "2016-02-05T16:46:35.000+0000",
+      "Location_Name__c": "Computer Games Corp.",
+      "Phone__c": "(321) 654-6769",
+      "Postal_Code__c": "35184",
+      "Start__c": "2016-02-05T16:46:35.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef86"
+      },
+      "Address_1__c": "68 Liberty Street",
+      "Name": "Dark sea green",
+      "Cat_Capacity__c": -120,
+      "Dog_Capacity__c": 28,
+      "City__c": "Ogallah",
+      "End__c": "2019-05-07T04:35:34.000+0000",
+      "Location_Name__c": "Semiconductors Corp.",
+      "Phone__c": "(331) 344-1684",
+      "Postal_Code__c": "67656",
+      "Start__c": "2019-05-07T04:35:34.000+0000",
+      "State__c": "KS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef87"
+      },
+      "Address_1__c": "341 King Street",
+      "Name": "Pale cerulean",
+      "Cat_Capacity__c": 71,
+      "Dog_Capacity__c": 23,
+      "City__c": "Waynesburg",
+      "End__c": "2022-01-05T00:18:28.000+0000",
+      "Location_Name__c": "Publishing Corp.",
+      "Phone__c": "(316) 934-6144",
+      "Postal_Code__c": "15370",
+      "Start__c": "2022-01-05T00:18:28.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef88"
+      },
+      "Address_1__c": "999 Clinton Street",
+      "Name": "Brown sugar",
+      "Cat_Capacity__c": 59,
+      "Dog_Capacity__c": -117,
+      "City__c": "Maydelle",
+      "End__c": "2018-11-28T21:35:40.000+0000",
+      "Location_Name__c": "Cosmetics Corp.",
+      "Phone__c": "(985) 862-8741",
+      "Postal_Code__c": "75772",
+      "Start__c": "2018-11-28T21:35:40.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef89"
+      },
+      "Address_1__c": "5419 Hamilton Street",
+      "Name": "Cerulean",
+      "Cat_Capacity__c": 47,
+      "Dog_Capacity__c": 41,
+      "City__c": "Hoyt Lakes",
+      "End__c": "2013-05-15T02:45:37.000+0000",
+      "Location_Name__c": "Package Delivery, Ltd.",
+      "Phone__c": "(339) 404-8984",
+      "Postal_Code__c": "55750",
+      "Start__c": "2013-05-15T02:45:37.000+0000",
+      "State__c": "MN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef90"
+      },
+      "Address_1__c": "21744 North Street",
+      "Name": "Fuchsia",
+      "Cat_Capacity__c": 75,
+      "Dog_Capacity__c": -62,
+      "City__c": "Bueche",
+      "End__c": "2022-11-20T06:46:08.000+0000",
+      "Location_Name__c": "The Containers Company",
+      "Phone__c": "(619) 431-1534",
+      "Postal_Code__c": "70720",
+      "Start__c": "2022-11-20T06:46:08.000+0000",
+      "State__c": "LA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef91"
+      },
+      "Address_1__c": "11 Dogwood Lane",
+      "Address_2__c": "Apt 32",
+      "Name": "Japanese violet",
+      "Cat_Capacity__c": -69,
+      "Dog_Capacity__c": 86,
+      "City__c": "Ashkum",
+      "End__c": "2023-12-11T23:14:07.000+0000",
+      "Location_Name__c": "Containers, Ltd.",
+      "Phone__c": "(779) 774-8193",
+      "Postal_Code__c": "60911",
+      "Start__c": "2023-12-11T23:14:07.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef92"
+      },
+      "Address_1__c": "863 Summit Avenue",
+      "Name": "Mountbatten pink",
+      "Cat_Capacity__c": -83,
+      "Dog_Capacity__c": -79,
+      "City__c": "Clearfield",
+      "End__c": "2019-02-09T08:19:30.000+0000",
+      "Location_Name__c": "Fishery, Inc.",
+      "Phone__c": "(628) 807-4649",
+      "Postal_Code__c": "84015",
+      "Start__c": "2019-02-09T08:19:30.000+0000",
+      "State__c": "UT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef93"
+      },
+      "Address_1__c": "55 Route 32",
+      "Name": "Cyber grape",
+      "Cat_Capacity__c": 96,
+      "Dog_Capacity__c": -124,
+      "City__c": "Birmingham",
+      "End__c": "2010-11-30T11:13:21.000+0000",
+      "Location_Name__c": "Procurement Co.",
+      "Phone__c": "(248) 838-1580",
+      "Postal_Code__c": "35243",
+      "Start__c": "2010-11-30T11:13:21.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef94"
+      },
+      "Address_1__c": "4775 Market Street",
+      "Name": "Aqua",
+      "Cat_Capacity__c": 112,
+      "Dog_Capacity__c": 55,
+      "City__c": "Jamestown",
+      "End__c": "2020-12-10T09:40:35.000+0000",
+      "Location_Name__c": "Jewelry Corp.",
+      "Phone__c": "(848) 781-2937",
+      "Postal_Code__c": "45335",
+      "Start__c": "2020-12-10T09:40:35.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef95"
+      },
+      "Address_1__c": "40 Primrose Lane",
+      "Name": "Claret",
+      "Cat_Capacity__c": 18,
+      "Dog_Capacity__c": -61,
+      "City__c": "Oxbow",
+      "End__c": "2022-02-02T18:56:16.000+0000",
+      "Location_Name__c": "Civil Engineering Co.",
+      "Phone__c": "(859) 969-1589",
+      "Postal_Code__c": "04764",
+      "Start__c": "2022-02-02T18:56:16.000+0000",
+      "State__c": "ME"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef96"
+      },
+      "Address_1__c": "471 Pine Street",
+      "Name": "Snow",
+      "Cat_Capacity__c": 94,
+      "Dog_Capacity__c": 63,
+      "City__c": "Port Isabel",
+      "End__c": "2010-10-28T07:23:36.000+0000",
+      "Location_Name__c": "The Animation Company",
+      "Phone__c": "(567) 742-2302",
+      "Postal_Code__c": "78578",
+      "Start__c": "2010-10-28T07:23:36.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef97"
+      },
+      "Address_1__c": "544 Creek Road",
+      "Name": "True Blue",
+      "Cat_Capacity__c": 9,
+      "Dog_Capacity__c": -87,
+      "City__c": "Elkhart",
+      "End__c": "2013-10-07T09:57:07.000+0000",
+      "Location_Name__c": "Journalism Co.",
+      "Phone__c": "(848) 705-4821",
+      "Postal_Code__c": "75839",
+      "Start__c": "2013-10-07T09:57:07.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef98"
+      },
+      "Address_1__c": "56 Maple Avenue",
+      "Address_2__c": "Unit 166",
+      "Name": "Purple navy",
+      "Cat_Capacity__c": -88,
+      "Dog_Capacity__c": -57,
+      "City__c": "Tucson",
+      "End__c": "2016-10-10T08:04:31.000+0000",
+      "Location_Name__c": "Consumer Goods, Ltd.",
+      "Phone__c": "(980) 009-0006",
+      "Postal_Code__c": "85704",
+      "Start__c": "2016-10-10T08:04:31.000+0000",
+      "State__c": "AZ"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef99"
+      },
+      "Address_1__c": "57502 Spruce Street",
+      "Address_2__c": "Unit 917",
+      "Name": "Maximum green yellow",
+      "Cat_Capacity__c": -104,
+      "Dog_Capacity__c": -51,
+      "City__c": "Ashburn",
+      "End__c": "2016-11-26T13:30:06.000+0000",
+      "Location_Name__c": "Civil Engineering Corp.",
+      "Phone__c": "(857) 972-8512",
+      "Postal_Code__c": "20147",
+      "Start__c": "2016-11-26T13:30:06.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef100"
+      },
+      "Address_1__c": "85 Laurel Street",
+      "Name": "Auburn",
+      "Cat_Capacity__c": -65,
+      "Dog_Capacity__c": -84,
+      "City__c": "Brooklyn",
+      "End__c": "2013-07-06T19:30:37.000+0000",
+      "Location_Name__c": "Web Design Co.",
+      "Phone__c": "(220) 874-1248",
+      "Postal_Code__c": "11216",
+      "Start__c": "2013-07-06T19:30:37.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef101"
+      },
+      "Address_1__c": "55447 Beech Street",
+      "Name": "Baby blue",
+      "Cat_Capacity__c": 102,
+      "Dog_Capacity__c": -118,
+      "City__c": "Hawkins",
+      "End__c": "2012-11-27T16:52:29.000+0000",
+      "Location_Name__c": "The E-Learning Company",
+      "Phone__c": "(717) 095-7776",
+      "Postal_Code__c": "54530",
+      "Start__c": "2012-11-27T16:52:29.000+0000",
+      "State__c": "WI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef102"
+      },
+      "Address_1__c": "27545 Locust Street",
+      "Name": "Violet",
+      "Cat_Capacity__c": 2,
+      "Dog_Capacity__c": 25,
+      "City__c": "Pemaquid",
+      "End__c": "2011-04-07T20:45:42.000+0000",
+      "Location_Name__c": "Machinery Corp.",
+      "Phone__c": "(915) 766-3222",
+      "Postal_Code__c": "04558",
+      "Start__c": "2011-04-07T20:45:42.000+0000",
+      "State__c": "ME"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef103"
+      },
+      "Address_1__c": "3888 10th Street",
+      "Address_2__c": "Apt 2123",
+      "Name": "Pale cerulean",
+      "Cat_Capacity__c": -23,
+      "Dog_Capacity__c": -34,
+      "City__c": "Schuylkill Haven",
+      "End__c": "2011-01-10T05:33:21.000+0000",
+      "Location_Name__c": "Motion Pictures, Incorporated",
+      "Phone__c": "(434) 188-1057",
+      "Postal_Code__c": "17972",
+      "Start__c": "2011-01-10T05:33:21.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef104"
+      },
+      "Address_1__c": "808 East Street",
+      "Name": "Periwinkle",
+      "Cat_Capacity__c": 17,
+      "Dog_Capacity__c": -86,
+      "City__c": "Roundup",
+      "End__c": "2016-05-30T00:53:37.000+0000",
+      "Location_Name__c": "Financial Services Co.",
+      "Phone__c": "(269) 608-7577",
+      "Postal_Code__c": "59000",
+      "Start__c": "2016-05-30T00:53:37.000+0000",
+      "State__c": "MT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef105"
+      },
+      "Address_1__c": "95 4th Street North",
+      "Address_2__c": "Apt 1314",
+      "Name": "Old burgundy",
+      "Cat_Capacity__c": 30,
+      "Dog_Capacity__c": 71,
+      "City__c": "New York",
+      "End__c": "2022-05-23T20:38:46.000+0000",
+      "Location_Name__c": "Information Technology, Inc.",
+      "Phone__c": "(417) 169-9992",
+      "Postal_Code__c": "10106",
+      "Start__c": "2022-05-23T20:38:46.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef106"
+      },
+      "Address_1__c": "33228 Cambridge Drive",
+      "Address_2__c": "Unit 218",
+      "Name": "Blond",
+      "Cat_Capacity__c": 115,
+      "Dog_Capacity__c": -34,
+      "City__c": "Glenwood",
+      "End__c": "2011-07-16T23:51:37.000+0000",
+      "Location_Name__c": "Computer Security, Inc.",
+      "Phone__c": "(779) 346-2804",
+      "Postal_Code__c": "36034",
+      "Start__c": "2011-07-16T23:51:37.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef107"
+      },
+      "Address_1__c": "831 5th Avenue",
+      "Name": "Hollywood cerise",
+      "Cat_Capacity__c": 26,
+      "Dog_Capacity__c": 66,
+      "City__c": "Bellingham",
+      "End__c": "2016-12-18T17:39:47.000+0000",
+      "Location_Name__c": "Electronic Manufacturing Corp.",
+      "Phone__c": "(765) 909-3695",
+      "Postal_Code__c": "56212",
+      "Start__c": "2016-12-18T17:39:47.000+0000",
+      "State__c": "MN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef108"
+      },
+      "Address_1__c": "13 Winding Way",
+      "Address_2__c": "Unit 1014",
+      "Name": "Persian rose",
+      "Cat_Capacity__c": -31,
+      "Dog_Capacity__c": 34,
+      "City__c": "Hudson",
+      "End__c": "2014-07-16T02:06:17.000+0000",
+      "Location_Name__c": "Publishing Co.",
+      "Phone__c": "(952) 634-9548",
+      "Postal_Code__c": "44238",
+      "Start__c": "2014-07-16T02:06:17.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef109"
+      },
+      "Address_1__c": "3213 4th Street North",
+      "Name": "Purple mountain majesty",
+      "Cat_Capacity__c": 46,
+      "Dog_Capacity__c": -31,
+      "City__c": "Hubbardston",
+      "End__c": "2011-04-13T03:01:39.000+0000",
+      "Location_Name__c": "Crafts Co.",
+      "Phone__c": "(351) 847-2344",
+      "Postal_Code__c": "01452",
+      "Start__c": "2011-04-13T03:01:39.000+0000",
+      "State__c": "MA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef110"
+      },
+      "Address_1__c": "3349 Charles Street",
+      "Address_2__c": "Unit 2416",
+      "Name": "Beige",
+      "Cat_Capacity__c": 123,
+      "Dog_Capacity__c": -66,
+      "City__c": "Fayetteville",
+      "End__c": "2012-04-11T11:06:37.000+0000",
+      "Location_Name__c": "Human Resources, LLC",
+      "Phone__c": "(586) 447-2525",
+      "Postal_Code__c": "37334",
+      "Start__c": "2012-04-11T11:06:37.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef111"
+      },
+      "Address_1__c": "65 Cherry Lane",
+      "Address_2__c": "Apt 96",
+      "Name": "Shiny Shamrock",
+      "Cat_Capacity__c": 22,
+      "Dog_Capacity__c": 31,
+      "City__c": "Toledo",
+      "End__c": "2023-06-26T08:02:38.000+0000",
+      "Location_Name__c": "Industrial Automation Corp.",
+      "Phone__c": "(574) 592-5231",
+      "Postal_Code__c": "43614",
+      "Start__c": "2023-06-26T08:02:38.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef112"
+      },
+      "Address_1__c": "40128 King Street",
+      "Name": "Tuscan",
+      "Cat_Capacity__c": -85,
+      "Dog_Capacity__c": -18,
+      "City__c": "Northridge",
+      "End__c": "2012-04-06T13:09:45.000+0000",
+      "Location_Name__c": "Hospitality, Inc.",
+      "Phone__c": "(248) 531-5185",
+      "Postal_Code__c": "91326",
+      "Start__c": "2012-04-06T13:09:45.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef113"
+      },
+      "Address_1__c": "369 4th Street",
+      "Name": "Dark khaki",
+      "Cat_Capacity__c": 121,
+      "Dog_Capacity__c": 52,
+      "City__c": "Grand Rapids",
+      "End__c": "2016-03-25T16:17:49.000+0000",
+      "Location_Name__c": "The Transportation Company",
+      "Phone__c": "(202) 857-6152",
+      "Postal_Code__c": "49503",
+      "Start__c": "2016-03-25T16:17:49.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef114"
+      },
+      "Address_1__c": "22100 4th Street West",
+      "Name": "Rosewood",
+      "Cat_Capacity__c": 97,
+      "Dog_Capacity__c": -23,
+      "City__c": "Lancaster",
+      "End__c": "2018-07-31T08:05:54.000+0000",
+      "Location_Name__c": "Environmental Services Co.",
+      "Phone__c": "(430) 069-7213",
+      "Postal_Code__c": "66041",
+      "Start__c": "2018-07-31T08:05:54.000+0000",
+      "State__c": "KS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef115"
+      },
+      "Address_1__c": "98359 Maple Street",
+      "Address_2__c": "Apt 84",
+      "Name": "Italian sky blue",
+      "Cat_Capacity__c": 31,
+      "Dog_Capacity__c": -79,
+      "City__c": "Whitewater",
+      "End__c": "2013-07-11T05:28:19.000+0000",
+      "Location_Name__c": "Journalism, Inc.",
+      "Phone__c": "(203) 975-1834",
+      "Postal_Code__c": "49590",
+      "Start__c": "2013-07-11T05:28:19.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef116"
+      },
+      "Address_1__c": "7263 Harrison Street",
+      "Name": "Winter Sky",
+      "Cat_Capacity__c": -33,
+      "Dog_Capacity__c": -87,
+      "City__c": "Continental Divide",
+      "End__c": "2017-08-28T10:33:11.000+0000",
+      "Location_Name__c": "The Defense Company",
+      "Phone__c": "(815) 267-4994",
+      "Postal_Code__c": "87312",
+      "Start__c": "2017-08-28T10:33:11.000+0000",
+      "State__c": "NM"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef117"
+      },
+      "Address_1__c": "10 1st Avenue",
+      "Name": "Carnelian",
+      "Cat_Capacity__c": -31,
+      "Dog_Capacity__c": 21,
+      "City__c": "Warsaw",
+      "End__c": "2021-05-08T20:15:24.000+0000",
+      "Location_Name__c": "The Insurance Company",
+      "Phone__c": "(541) 448-4669",
+      "Postal_Code__c": "43844",
+      "Start__c": "2021-05-08T20:15:24.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef118"
+      },
+      "Address_1__c": "569 Elizabeth Street",
+      "Name": "TennÃ©",
+      "Cat_Capacity__c": 125,
+      "Dog_Capacity__c": 94,
+      "City__c": "Ash",
+      "End__c": "2013-02-16T06:03:40.000+0000",
+      "Location_Name__c": "Management Consulting, Incorporated",
+      "Phone__c": "(336) 411-8699",
+      "Postal_Code__c": "28420",
+      "Start__c": "2013-02-16T06:03:40.000+0000",
+      "State__c": "NC"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef119"
+      },
+      "Address_1__c": "56929 Cambridge Court",
+      "Address_2__c": "Apt 77",
+      "Name": "Mauvelous",
+      "Cat_Capacity__c": -49,
+      "Dog_Capacity__c": 83,
+      "City__c": "Allensville",
+      "End__c": "2023-02-24T14:43:39.000+0000",
+      "Location_Name__c": "International Development Corp.",
+      "Phone__c": "(959) 466-5689",
+      "Postal_Code__c": "42204",
+      "Start__c": "2023-02-24T14:43:39.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef120"
+      },
+      "Address_1__c": "2879 Hickory Lane",
+      "Address_2__c": "Apt 321",
+      "Name": "Cyber yellow",
+      "Cat_Capacity__c": 55,
+      "Dog_Capacity__c": 115,
+      "City__c": "White Hall",
+      "End__c": "2018-12-10T10:22:18.000+0000",
+      "Location_Name__c": "Graphic Design, Incorporated",
+      "Phone__c": "(859) 568-6797",
+      "Postal_Code__c": "21161",
+      "Start__c": "2018-12-10T10:22:18.000+0000",
+      "State__c": "MD"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef121"
+      },
+      "Address_1__c": "4174 Route 6",
+      "Address_2__c": "Unit 110",
+      "Name": "Rich black",
+      "Cat_Capacity__c": -104,
+      "Dog_Capacity__c": 113,
+      "City__c": "Rillton",
+      "End__c": "2010-08-19T12:09:21.000+0000",
+      "Location_Name__c": "Legal Services Co.",
+      "Phone__c": "(316) 015-6024",
+      "Postal_Code__c": "15678",
+      "Start__c": "2010-08-19T12:09:21.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef122"
+      },
+      "Address_1__c": "504 Liberty Street",
+      "Name": "Midnight blue",
+      "Cat_Capacity__c": 82,
+      "Dog_Capacity__c": 122,
+      "City__c": "Huntsville",
+      "End__c": "2018-06-20T00:19:31.000+0000",
+      "Location_Name__c": "Recreational Facilities, Inc.",
+      "Phone__c": "(937) 172-7709",
+      "Postal_Code__c": "77342",
+      "Start__c": "2018-06-20T00:19:31.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef123"
+      },
+      "Address_1__c": "38 Hillcrest Drive",
+      "Name": "Dark red",
+      "Cat_Capacity__c": -17,
+      "Dog_Capacity__c": -111,
+      "City__c": "Light Street",
+      "End__c": "2012-02-14T12:55:28.000+0000",
+      "Location_Name__c": "Computer Games, LLC",
+      "Phone__c": "(215) 190-0701",
+      "Postal_Code__c": "17839",
+      "Start__c": "2012-02-14T12:55:28.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef124"
+      },
+      "Address_1__c": "94 Ridge Avenue",
+      "Address_2__c": "Apt 128",
+      "Name": "Dim gray",
+      "Cat_Capacity__c": -74,
+      "Dog_Capacity__c": 30,
+      "City__c": "Hudson",
+      "End__c": "2016-02-02T17:53:41.000+0000",
+      "Location_Name__c": "Mortgages, LLC",
+      "Phone__c": "(901) 421-5026",
+      "Postal_Code__c": "34669",
+      "Start__c": "2016-02-02T17:53:41.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef125"
+      },
+      "Address_1__c": "8678 Walnut Street",
+      "Name": "Amaranth",
+      "Cat_Capacity__c": 41,
+      "Dog_Capacity__c": -13,
+      "City__c": "Naples",
+      "End__c": "2011-03-22T16:34:33.000+0000",
+      "Location_Name__c": "Computer Hardware, LLC",
+      "Phone__c": "(830) 571-8035",
+      "Postal_Code__c": "34116",
+      "Start__c": "2011-03-22T16:34:33.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef126"
+      },
+      "Address_1__c": "96 Fairview Avenue",
+      "Name": "Maximum red",
+      "Cat_Capacity__c": -25,
+      "Dog_Capacity__c": -64,
+      "City__c": "Fosters",
+      "End__c": "2021-05-23T20:16:37.000+0000",
+      "Location_Name__c": "Environmental Services, Incorporated",
+      "Phone__c": "(530) 655-8144",
+      "Postal_Code__c": "35463",
+      "Start__c": "2021-05-23T20:16:37.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef127"
+      },
+      "Address_1__c": "8273 Jefferson Avenue",
+      "Name": "Neon blue",
+      "Cat_Capacity__c": -78,
+      "Dog_Capacity__c": 112,
+      "City__c": "Monsey",
+      "End__c": "2017-04-27T00:49:47.000+0000",
+      "Location_Name__c": "The Health Company",
+      "Phone__c": "(417) 549-9285",
+      "Postal_Code__c": "10952",
+      "Start__c": "2017-04-27T00:49:47.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef128"
+      },
+      "Address_1__c": "6564 Durham Road",
+      "Name": "Falu red",
+      "Cat_Capacity__c": -27,
+      "Dog_Capacity__c": -53,
+      "City__c": "Delcambre",
+      "End__c": "2016-07-08T05:01:49.000+0000",
+      "Location_Name__c": "Environmental Services Co.",
+      "Phone__c": "(806) 519-0516",
+      "Postal_Code__c": "70528",
+      "Start__c": "2016-07-08T05:01:49.000+0000",
+      "State__c": "LA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef129"
+      },
+      "Address_1__c": "105 Highland Drive",
+      "Name": "Seashell",
+      "Cat_Capacity__c": -119,
+      "Dog_Capacity__c": 41,
+      "City__c": "Crestwood",
+      "End__c": "2018-03-08T23:07:28.000+0000",
+      "Location_Name__c": "Web Design, LLC",
+      "Phone__c": "(252) 154-3825",
+      "Postal_Code__c": "40081",
+      "Start__c": "2018-03-08T23:07:28.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef130"
+      },
+      "Address_1__c": "3 Magnolia Drive",
+      "Name": "United Nations blue",
+      "Cat_Capacity__c": 15,
+      "Dog_Capacity__c": -105,
+      "City__c": "Goodman",
+      "End__c": "2020-04-26T20:33:49.000+0000",
+      "Location_Name__c": "Mortgages, Inc.",
+      "Phone__c": "(351) 797-0433",
+      "Postal_Code__c": "39079",
+      "Start__c": "2020-04-26T20:33:49.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef131"
+      },
+      "Address_1__c": "1237 Court Street",
+      "Address_2__c": "Unit 217",
+      "Name": "Honeydew",
+      "Cat_Capacity__c": -49,
+      "Dog_Capacity__c": -94,
+      "City__c": "Valdosta",
+      "End__c": "2017-02-17T19:10:11.000+0000",
+      "Location_Name__c": "Computer Security, Incorporated",
+      "Phone__c": "(503) 973-3829",
+      "Postal_Code__c": "31604",
+      "Start__c": "2017-02-17T19:10:11.000+0000",
+      "State__c": "GA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef132"
+      },
+      "Address_1__c": "55 1st Street",
+      "Name": "Silver",
+      "Cat_Capacity__c": -76,
+      "Dog_Capacity__c": 75,
+      "City__c": "Kingman",
+      "End__c": "2017-02-13T13:25:24.000+0000",
+      "Location_Name__c": "The Computer Engineering Company",
+      "Phone__c": "(704) 756-3701",
+      "Postal_Code__c": "67068",
+      "Start__c": "2017-02-13T13:25:24.000+0000",
+      "State__c": "KS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef133"
+      },
+      "Address_1__c": "318 Beech Street",
+      "Name": "Roman silver",
+      "Cat_Capacity__c": 55,
+      "Dog_Capacity__c": -6,
+      "City__c": "Otis",
+      "End__c": "2013-08-09T16:41:48.000+0000",
+      "Location_Name__c": "Glass, Ltd.",
+      "Phone__c": "(831) 282-3338",
+      "Postal_Code__c": "01253",
+      "Start__c": "2013-08-09T16:41:48.000+0000",
+      "State__c": "MA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef134"
+      },
+      "Address_1__c": "659 Madison Street",
+      "Address_2__c": "Apt 719",
+      "Name": "Dark jungle green",
+      "Cat_Capacity__c": 117,
+      "Dog_Capacity__c": 94,
+      "City__c": "Guilderland Center",
+      "End__c": "2019-09-04T17:32:58.000+0000",
+      "Location_Name__c": "Food, Inc.",
+      "Phone__c": "(980) 011-8269",
+      "Postal_Code__c": "12085",
+      "Start__c": "2019-09-04T17:32:58.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef135"
+      },
+      "Address_1__c": "4544 Broadway",
+      "Name": "Deep chestnut",
+      "Cat_Capacity__c": -70,
+      "Dog_Capacity__c": -49,
+      "City__c": "Tampa",
+      "End__c": "2022-09-22T16:48:32.000+0000",
+      "Location_Name__c": "The E-Learning Company",
+      "Phone__c": "(818) 786-7015",
+      "Postal_Code__c": "33605",
+      "Start__c": "2022-09-22T16:48:32.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef136"
+      },
+      "Address_1__c": "7593 Academy Street",
+      "Name": "Yellow",
+      "Cat_Capacity__c": -98,
+      "Dog_Capacity__c": 53,
+      "City__c": "Worden",
+      "End__c": "2015-06-04T17:20:09.000+0000",
+      "Location_Name__c": "Private Equity, Ltd.",
+      "Phone__c": "(770) 601-5922",
+      "Postal_Code__c": "59088",
+      "Start__c": "2015-06-04T17:20:09.000+0000",
+      "State__c": "MT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef137"
+      },
+      "Address_1__c": "89 Warren Street",
+      "Name": "Saddle brown",
+      "Cat_Capacity__c": 51,
+      "Dog_Capacity__c": 40,
+      "City__c": "Rocksprings",
+      "End__c": "2011-03-14T19:49:20.000+0000",
+      "Location_Name__c": "Sporting Goods Co.",
+      "Phone__c": "(919) 169-0385",
+      "Postal_Code__c": "78880",
+      "Start__c": "2011-03-14T19:49:20.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef138"
+      },
+      "Address_1__c": "9449 Hillside Drive",
+      "Address_2__c": "Unit 2319",
+      "Name": "Olivine",
+      "Cat_Capacity__c": 127,
+      "Dog_Capacity__c": -99,
+      "City__c": "Andover",
+      "End__c": "2012-08-17T15:30:42.000+0000",
+      "Location_Name__c": "Farming, Ltd.",
+      "Phone__c": "(304) 599-8082",
+      "Postal_Code__c": "52701",
+      "Start__c": "2012-08-17T15:30:42.000+0000",
+      "State__c": "IA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef139"
+      },
+      "Address_1__c": "5 12th Street",
+      "Name": "Maximum green yellow",
+      "Cat_Capacity__c": -82,
+      "Dog_Capacity__c": -90,
+      "City__c": "Uncasville",
+      "End__c": "2020-07-04T04:25:13.000+0000",
+      "Location_Name__c": "Insurance Corp.",
+      "Phone__c": "(949) 085-4720",
+      "Postal_Code__c": "06382",
+      "Start__c": "2020-07-04T04:25:13.000+0000",
+      "State__c": "CT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef140"
+      },
+      "Address_1__c": "129 Dogwood Lane",
+      "Name": "Jade",
+      "Cat_Capacity__c": -5,
+      "Dog_Capacity__c": -116,
+      "City__c": "Horace",
+      "End__c": "2012-10-27T18:46:10.000+0000",
+      "Location_Name__c": "Apparel, Incorporated",
+      "Phone__c": "(678) 019-7983",
+      "Postal_Code__c": "58047",
+      "Start__c": "2012-10-27T18:46:10.000+0000",
+      "State__c": "ND"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef141"
+      },
+      "Address_1__c": "3539 Cherry Street",
+      "Name": "Magenta",
+      "Cat_Capacity__c": 54,
+      "Dog_Capacity__c": -54,
+      "City__c": "Orlando",
+      "End__c": "2016-12-14T17:15:00.000+0000",
+      "Location_Name__c": "Web Design, Incorporated",
+      "Phone__c": "(301) 307-7900",
+      "Postal_Code__c": "32810",
+      "Start__c": "2016-12-14T17:15:00.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef142"
+      },
+      "Address_1__c": "51 Hamilton Street",
+      "Address_2__c": "Apt 39",
+      "Name": "French lilac",
+      "Cat_Capacity__c": 59,
+      "Dog_Capacity__c": -56,
+      "City__c": "Chiefland",
+      "End__c": "2022-11-03T18:02:35.000+0000",
+      "Location_Name__c": "Ceramics, LLC",
+      "Phone__c": "(928) 429-5696",
+      "Postal_Code__c": "32644",
+      "Start__c": "2022-11-03T18:02:35.000+0000",
+      "State__c": "FL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef143"
+      },
+      "Address_1__c": "3900 Academy Street",
+      "Name": "Green",
+      "Cat_Capacity__c": 107,
+      "Dog_Capacity__c": -60,
+      "City__c": "Bixby",
+      "End__c": "2019-02-20T02:38:11.000+0000",
+      "Location_Name__c": "International Trade Corp.",
+      "Phone__c": "(557) 160-1873",
+      "Postal_Code__c": "74008",
+      "Start__c": "2019-02-20T02:38:11.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef144"
+      },
+      "Address_1__c": "64 Jefferson Avenue",
+      "Address_2__c": "Apt 2110",
+      "Name": "Charm pink",
+      "Cat_Capacity__c": 6,
+      "Dog_Capacity__c": 5,
+      "City__c": "Denver",
+      "End__c": "2016-09-10T12:04:22.000+0000",
+      "Location_Name__c": "Facilities Services, Ltd.",
+      "Phone__c": "(952) 398-6906",
+      "Postal_Code__c": "64441",
+      "Start__c": "2016-09-10T12:04:22.000+0000",
+      "State__c": "MO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef145"
+      },
+      "Address_1__c": "783 Mill Street",
+      "Name": "Slate gray",
+      "Cat_Capacity__c": 29,
+      "Dog_Capacity__c": -18,
+      "City__c": "Bound Brook",
+      "End__c": "2013-12-06T06:16:51.000+0000",
+      "Location_Name__c": "Writing Co.",
+      "Phone__c": "(848) 811-9341",
+      "Postal_Code__c": "08805",
+      "Start__c": "2013-12-06T06:16:51.000+0000",
+      "State__c": "NJ"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef146"
+      },
+      "Address_1__c": "52 7th Street East",
+      "Name": "China pink",
+      "Cat_Capacity__c": -8,
+      "Dog_Capacity__c": -17,
+      "City__c": "Mendon",
+      "End__c": "2015-01-30T10:35:36.000+0000",
+      "Location_Name__c": "Management Consulting, Ltd.",
+      "Phone__c": "(307) 169-7828",
+      "Postal_Code__c": "49072",
+      "Start__c": "2015-01-30T10:35:36.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef147"
+      },
+      "Address_1__c": "1440 Vine Street",
+      "Address_2__c": "Apt 625",
+      "Name": "Arctic lime",
+      "Cat_Capacity__c": -71,
+      "Dog_Capacity__c": -42,
+      "City__c": "Burbank",
+      "End__c": "2013-02-22T08:07:21.000+0000",
+      "Location_Name__c": "Sports, Inc.",
+      "Phone__c": "(559) 974-7600",
+      "Postal_Code__c": "91522",
+      "Start__c": "2013-02-22T08:07:21.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef148"
+      },
+      "Address_1__c": "99188 Mulberry Street",
+      "Name": "Rajah",
+      "Cat_Capacity__c": 15,
+      "Dog_Capacity__c": -97,
+      "City__c": "Henderson",
+      "End__c": "2017-01-21T21:33:14.000+0000",
+      "Location_Name__c": "Public Relations, Incorporated",
+      "Phone__c": "(603) 945-9053",
+      "Postal_Code__c": "13650",
+      "Start__c": "2017-01-21T21:33:14.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef149"
+      },
+      "Address_1__c": "133 2nd Street West",
+      "Address_2__c": "Apt 259",
+      "Name": "Jet",
+      "Cat_Capacity__c": -18,
+      "Dog_Capacity__c": -6,
+      "City__c": "Rockford",
+      "End__c": "2021-02-14T07:03:34.000+0000",
+      "Location_Name__c": "Events Services, Incorporated",
+      "Phone__c": "(501) 060-7503",
+      "Postal_Code__c": "61114",
+      "Start__c": "2021-02-14T07:03:34.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef150"
+      },
+      "Address_1__c": "208 Route 1",
+      "Address_2__c": "Apt 124",
+      "Name": "Lemon yellow",
+      "Cat_Capacity__c": 0,
+      "Dog_Capacity__c": 81,
+      "City__c": "Webber",
+      "End__c": "2019-03-29T22:14:19.000+0000",
+      "Location_Name__c": "Paper Products Corp.",
+      "Phone__c": "(908) 475-2318",
+      "Postal_Code__c": "66970",
+      "Start__c": "2019-03-29T22:14:19.000+0000",
+      "State__c": "KS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef151"
+      },
+      "Address_1__c": "51 Lincoln Avenue",
+      "Name": "Green",
+      "Cat_Capacity__c": 41,
+      "Dog_Capacity__c": 53,
+      "City__c": "Abbeville",
+      "End__c": "2013-06-24T12:25:08.000+0000",
+      "Location_Name__c": "Real Estate, Incorporated",
+      "Phone__c": "(620) 700-4271",
+      "Postal_Code__c": "38601",
+      "Start__c": "2013-06-24T12:25:08.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef152"
+      },
+      "Address_1__c": "7545 Lafayette Avenue",
+      "Name": "Mauve taupe",
+      "Cat_Capacity__c": -33,
+      "Dog_Capacity__c": -123,
+      "City__c": "Jamaica",
+      "End__c": "2017-06-28T14:02:32.000+0000",
+      "Location_Name__c": "Education Co.",
+      "Phone__c": "(539) 927-3922",
+      "Postal_Code__c": "11432",
+      "Start__c": "2017-06-28T14:02:32.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef153"
+      },
+      "Address_1__c": "42004 Cambridge Drive",
+      "Name": "Dark spring green",
+      "Cat_Capacity__c": -45,
+      "Dog_Capacity__c": 97,
+      "City__c": "Westport",
+      "End__c": "2022-11-04T08:59:33.000+0000",
+      "Location_Name__c": "Electrical Manufacturing, Ltd.",
+      "Phone__c": "(908) 375-4991",
+      "Postal_Code__c": "12993",
+      "Start__c": "2022-11-04T08:59:33.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef154"
+      },
+      "Address_1__c": "2424 3rd Street West",
+      "Name": "Celeste",
+      "Cat_Capacity__c": -19,
+      "Dog_Capacity__c": -121,
+      "City__c": "Bolton",
+      "End__c": "2020-08-24T14:20:02.000+0000",
+      "Location_Name__c": "Publishing, Inc.",
+      "Phone__c": "(731) 779-5593",
+      "Postal_Code__c": "06043",
+      "Start__c": "2020-08-24T14:20:02.000+0000",
+      "State__c": "CT"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef155"
+      },
+      "Address_1__c": "57 Lake Street",
+      "Name": "Sage",
+      "Cat_Capacity__c": -109,
+      "Dog_Capacity__c": 101,
+      "City__c": "Fort Hall",
+      "End__c": "2019-07-06T10:48:27.000+0000",
+      "Location_Name__c": "Dairy Co.",
+      "Phone__c": "(858) 824-7596",
+      "Postal_Code__c": "83203",
+      "Start__c": "2019-07-06T10:48:27.000+0000",
+      "State__c": "ID"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef156"
+      },
+      "Address_1__c": "88086 Elm Avenue",
+      "Name": "Cobalt blue",
+      "Cat_Capacity__c": 104,
+      "Dog_Capacity__c": -31,
+      "City__c": "Lafayette",
+      "End__c": "2020-07-14T03:26:10.000+0000",
+      "Location_Name__c": "Building Materials, LLC",
+      "Phone__c": "(660) 653-6468",
+      "Postal_Code__c": "70507",
+      "Start__c": "2020-07-14T03:26:10.000+0000",
+      "State__c": "LA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef157"
+      },
+      "Address_1__c": "25 Front Street North",
+      "Name": "Sheen green",
+      "Cat_Capacity__c": -66,
+      "Dog_Capacity__c": 11,
+      "City__c": "Neosho",
+      "End__c": "2015-07-06T11:37:25.000+0000",
+      "Location_Name__c": "Nanotechnology Co.",
+      "Phone__c": "(813) 591-3104",
+      "Postal_Code__c": "53059",
+      "Start__c": "2015-07-06T11:37:25.000+0000",
+      "State__c": "WI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef158"
+      },
+      "Address_1__c": "95 South Street",
+      "Name": "Tuscan",
+      "Cat_Capacity__c": -15,
+      "Dog_Capacity__c": 91,
+      "City__c": "Warner",
+      "End__c": "2015-11-14T18:34:13.000+0000",
+      "Location_Name__c": "Consumer Electronics, Incorporated",
+      "Phone__c": "(812) 367-1572",
+      "Postal_Code__c": "57479",
+      "Start__c": "2015-11-14T18:34:13.000+0000",
+      "State__c": "SD"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef159"
+      },
+      "Address_1__c": "6379 5th Avenue",
+      "Address_2__c": "Unit 515",
+      "Name": "Thulian pink",
+      "Cat_Capacity__c": -83,
+      "Dog_Capacity__c": 107,
+      "City__c": "Ancramdale",
+      "End__c": "2020-11-19T03:26:21.000+0000",
+      "Location_Name__c": "International Development, Ltd.",
+      "Phone__c": "(339) 733-1090",
+      "Postal_Code__c": "12503",
+      "Start__c": "2020-11-19T03:26:21.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef160"
+      },
+      "Address_1__c": "164 Cedar Lane",
+      "Name": "Middle green yellow",
+      "Cat_Capacity__c": -3,
+      "Dog_Capacity__c": 44,
+      "City__c": "Castalian Springs",
+      "End__c": "2018-12-12T00:59:18.000+0000",
+      "Location_Name__c": "Computer Games, Ltd.",
+      "Phone__c": "(515) 579-6158",
+      "Postal_Code__c": "37031",
+      "Start__c": "2018-12-12T00:59:18.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef161"
+      },
+      "Address_1__c": "65244 Poplar Street",
+      "Name": "Mango Tango",
+      "Cat_Capacity__c": 38,
+      "Dog_Capacity__c": 111,
+      "City__c": "San Marcos",
+      "End__c": "2012-11-20T23:12:31.000+0000",
+      "Location_Name__c": "Movie Production, Ltd.",
+      "Phone__c": "(717) 250-6535",
+      "Postal_Code__c": "78666",
+      "Start__c": "2012-11-20T23:12:31.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef162"
+      },
+      "Address_1__c": "894 Surrey Lane",
+      "Address_2__c": "Apt 94",
+      "Name": "Prussian blue",
+      "Cat_Capacity__c": -19,
+      "Dog_Capacity__c": 105,
+      "City__c": "Hennepin",
+      "End__c": "2020-09-01T19:05:38.000+0000",
+      "Location_Name__c": "Defense Co.",
+      "Phone__c": "(217) 253-5087",
+      "Postal_Code__c": "73444",
+      "Start__c": "2020-09-01T19:05:38.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef163"
+      },
+      "Address_1__c": "5565 3rd Street",
+      "Name": "Cadmium yellow",
+      "Cat_Capacity__c": -71,
+      "Dog_Capacity__c": -53,
+      "City__c": "Waco",
+      "End__c": "2010-08-11T19:38:08.000+0000",
+      "Location_Name__c": "Internet, LLC",
+      "Phone__c": "(505) 779-9923",
+      "Postal_Code__c": "40385",
+      "Start__c": "2010-08-11T19:38:08.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef164"
+      },
+      "Address_1__c": "748 Cedar Lane",
+      "Name": "Yellow",
+      "Cat_Capacity__c": 58,
+      "Dog_Capacity__c": 127,
+      "City__c": "Champaign",
+      "End__c": "2014-01-23T11:26:39.000+0000",
+      "Location_Name__c": "Writing, Incorporated",
+      "Phone__c": "(920) 333-8509",
+      "Postal_Code__c": "61825",
+      "Start__c": "2014-01-23T11:26:39.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef165"
+      },
+      "Address_1__c": "64 Market Street",
+      "Name": "Green",
+      "Cat_Capacity__c": -128,
+      "Dog_Capacity__c": 90,
+      "City__c": "Memphis",
+      "End__c": "2018-05-29T04:05:01.000+0000",
+      "Location_Name__c": "The Building Materials Company",
+      "Phone__c": "(773) 188-0388",
+      "Postal_Code__c": "38137",
+      "Start__c": "2018-05-29T04:05:01.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef166"
+      },
+      "Address_1__c": "517 Grove Street",
+      "Name": "Charleston green",
+      "Cat_Capacity__c": -59,
+      "Dog_Capacity__c": 91,
+      "City__c": "New Market",
+      "End__c": "2015-03-07T20:06:46.000+0000",
+      "Location_Name__c": "Computer Hardware, Ltd.",
+      "Phone__c": "(217) 315-9667",
+      "Postal_Code__c": "35761",
+      "Start__c": "2015-03-07T20:06:46.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef167"
+      },
+      "Address_1__c": "31613 Summit Street",
+      "Name": "Purple",
+      "Cat_Capacity__c": 31,
+      "Dog_Capacity__c": -51,
+      "City__c": "Johnson City",
+      "End__c": "2022-04-14T06:03:15.000+0000",
+      "Location_Name__c": "Education, Inc.",
+      "Phone__c": "(760) 503-0793",
+      "Postal_Code__c": "37602",
+      "Start__c": "2022-04-14T06:03:15.000+0000",
+      "State__c": "TN"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef168"
+      },
+      "Address_1__c": "1819 Lafayette Avenue",
+      "Address_2__c": "Unit 226",
+      "Name": "Green Lizard",
+      "Cat_Capacity__c": 14,
+      "Dog_Capacity__c": -86,
+      "City__c": "Truxton",
+      "End__c": "2012-05-09T01:16:48.000+0000",
+      "Location_Name__c": "Luxury Goods Corp.",
+      "Phone__c": "(380) 347-6252",
+      "Postal_Code__c": "63381",
+      "Start__c": "2012-05-09T01:16:48.000+0000",
+      "State__c": "MO"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef169"
+      },
+      "Address_1__c": "401 Primrose Lane",
+      "Address_2__c": "Apt 617",
+      "Name": "Bittersweet shimmer",
+      "Cat_Capacity__c": 67,
+      "Dog_Capacity__c": -116,
+      "City__c": "Meridianville",
+      "End__c": "2018-11-23T07:14:19.000+0000",
+      "Location_Name__c": "Marketing Co.",
+      "Phone__c": "(917) 658-0859",
+      "Postal_Code__c": "35759",
+      "Start__c": "2018-11-23T07:14:19.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef170"
+      },
+      "Address_1__c": "7285 Penn Street",
+      "Name": "Gray",
+      "Cat_Capacity__c": 112,
+      "Dog_Capacity__c": -35,
+      "City__c": "Wetumka",
+      "End__c": "2021-12-17T10:20:33.000+0000",
+      "Location_Name__c": "The Defense Company",
+      "Phone__c": "(412) 264-1264",
+      "Postal_Code__c": "74853",
+      "Start__c": "2021-12-17T10:20:33.000+0000",
+      "State__c": "OK"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef171"
+      },
+      "Address_1__c": "37686 Front Street",
+      "Name": "CG blue",
+      "Cat_Capacity__c": 4,
+      "Dog_Capacity__c": -47,
+      "City__c": "Bethel",
+      "End__c": "2014-01-16T22:50:17.000+0000",
+      "Location_Name__c": "Advertising, Ltd.",
+      "Phone__c": "(703) 654-2951",
+      "Postal_Code__c": "12793",
+      "Start__c": "2014-01-16T22:50:17.000+0000",
+      "State__c": "NY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef172"
+      },
+      "Address_1__c": "53929 6th Street West",
+      "Name": "Rajah",
+      "Cat_Capacity__c": 34,
+      "Dog_Capacity__c": -55,
+      "City__c": "Carthage",
+      "End__c": "2015-07-12T06:02:36.000+0000",
+      "Location_Name__c": "Leisure, Incorporated",
+      "Phone__c": "(281) 210-2253",
+      "Postal_Code__c": "62321",
+      "Start__c": "2015-07-12T06:02:36.000+0000",
+      "State__c": "IL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef173"
+      },
+      "Address_1__c": "1161 College Street",
+      "Name": "Medium turquoise",
+      "Cat_Capacity__c": -127,
+      "Dog_Capacity__c": 80,
+      "City__c": "Delaplane",
+      "End__c": "2013-04-19T08:25:51.000+0000",
+      "Location_Name__c": "Mining, Incorporated",
+      "Phone__c": "(470) 394-6958",
+      "Postal_Code__c": "20144",
+      "Start__c": "2013-04-19T08:25:51.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef174"
+      },
+      "Address_1__c": "42114 Highland Drive",
+      "Name": "Platinum",
+      "Cat_Capacity__c": 21,
+      "Dog_Capacity__c": 25,
+      "City__c": "Benton",
+      "End__c": "2020-12-17T04:57:43.000+0000",
+      "Location_Name__c": "Computer Software Corp.",
+      "Phone__c": "(931) 875-8185",
+      "Postal_Code__c": "57347",
+      "Start__c": "2020-12-17T04:57:43.000+0000",
+      "State__c": "SD"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef175"
+      },
+      "Address_1__c": "8066 Route 10",
+      "Name": "Sunglow",
+      "Cat_Capacity__c": -61,
+      "Dog_Capacity__c": 107,
+      "City__c": "Connellsville",
+      "End__c": "2017-02-26T21:29:45.000+0000",
+      "Location_Name__c": "Insurance Co.",
+      "Phone__c": "(713) 664-6051",
+      "Postal_Code__c": "15425",
+      "Start__c": "2017-02-26T21:29:45.000+0000",
+      "State__c": "PA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef176"
+      },
+      "Address_1__c": "92 Highland Drive",
+      "Name": "Green",
+      "Cat_Capacity__c": -108,
+      "Dog_Capacity__c": 51,
+      "City__c": "D'Iberville",
+      "End__c": "2014-07-17T13:09:58.000+0000",
+      "Location_Name__c": "Sporting Goods, Inc.",
+      "Phone__c": "(606) 910-8368",
+      "Postal_Code__c": "39540",
+      "Start__c": "2014-07-17T13:09:58.000+0000",
+      "State__c": "MS"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef177"
+      },
+      "Address_1__c": "67231 Hickory Lane",
+      "Name": "Keppel",
+      "Cat_Capacity__c": 104,
+      "Dog_Capacity__c": 68,
+      "City__c": "Silverdale",
+      "End__c": "2019-01-03T10:27:50.000+0000",
+      "Location_Name__c": "Food Production Corp.",
+      "Phone__c": "(469) 244-5926",
+      "Postal_Code__c": "98383",
+      "Start__c": "2019-01-03T10:27:50.000+0000",
+      "State__c": "WA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef178"
+      },
+      "Address_1__c": "9168 Broadway",
+      "Name": "Tufts blue",
+      "Cat_Capacity__c": -33,
+      "Dog_Capacity__c": -109,
+      "City__c": "Fairfield",
+      "End__c": "2015-08-20T02:31:32.000+0000",
+      "Location_Name__c": "Textiles, Ltd.",
+      "Phone__c": "(228) 594-9169",
+      "Postal_Code__c": "75840",
+      "Start__c": "2015-08-20T02:31:32.000+0000",
+      "State__c": "TX"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef179"
+      },
+      "Address_1__c": "7047 James Street",
+      "Address_2__c": "Unit 2414",
+      "Name": "Honolulu blue",
+      "Cat_Capacity__c": 26,
+      "Dog_Capacity__c": 19,
+      "City__c": "Farmington",
+      "End__c": "2019-08-08T17:10:03.000+0000",
+      "Location_Name__c": "Environmental Services Corp.",
+      "Phone__c": "(914) 263-5133",
+      "Postal_Code__c": "72730",
+      "Start__c": "2019-08-08T17:10:03.000+0000",
+      "State__c": "AR"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef180"
+      },
+      "Address_1__c": "567 Charles Street",
+      "Name": "Middle green",
+      "Cat_Capacity__c": 11,
+      "Dog_Capacity__c": 4,
+      "City__c": "Fresno",
+      "End__c": "2016-04-10T13:45:17.000+0000",
+      "Location_Name__c": "Computer Hardware, LLC",
+      "Phone__c": "(208) 825-2305",
+      "Postal_Code__c": "93724",
+      "Start__c": "2016-04-10T13:45:17.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef181"
+      },
+      "Address_1__c": "350 Circle Drive",
+      "Name": "Onyx",
+      "Cat_Capacity__c": 22,
+      "Dog_Capacity__c": 29,
+      "City__c": "Athens",
+      "End__c": "2015-03-26T02:12:36.000+0000",
+      "Location_Name__c": "Computer Hardware, LLC",
+      "Phone__c": "(818) 429-8762",
+      "Postal_Code__c": "35614",
+      "Start__c": "2015-03-26T02:12:36.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef182"
+      },
+      "Address_1__c": "29 Beech Street",
+      "Name": "Cornflower blue",
+      "Cat_Capacity__c": 117,
+      "Dog_Capacity__c": 17,
+      "City__c": "Gifford",
+      "End__c": "2011-01-05T13:48:16.000+0000",
+      "Location_Name__c": "Advertising, Inc.",
+      "Phone__c": "(862) 147-3276",
+      "Postal_Code__c": "29923",
+      "Start__c": "2011-01-05T13:48:16.000+0000",
+      "State__c": "SC"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef183"
+      },
+      "Address_1__c": "8015 Water Street",
+      "Name": "Dark byzantium",
+      "Cat_Capacity__c": -4,
+      "Dog_Capacity__c": 108,
+      "City__c": "Morvin",
+      "End__c": "2016-06-13T17:54:37.000+0000",
+      "Location_Name__c": "The Mortgages Company",
+      "Phone__c": "(585) 955-0627",
+      "Postal_Code__c": "36762",
+      "Start__c": "2016-06-13T17:54:37.000+0000",
+      "State__c": "AL"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef184"
+      },
+      "Address_1__c": "4 10th Street",
+      "Name": "Light periwinkle",
+      "Cat_Capacity__c": 108,
+      "Dog_Capacity__c": 48,
+      "City__c": "Jacumba",
+      "End__c": "2020-07-29T13:57:50.000+0000",
+      "Location_Name__c": "Wine, LLC",
+      "Phone__c": "(325) 572-0822",
+      "Postal_Code__c": "91934",
+      "Start__c": "2020-07-29T13:57:50.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef185"
+      },
+      "Address_1__c": "33 Maple Avenue",
+      "Name": "Gold Fusion",
+      "Cat_Capacity__c": -94,
+      "Dog_Capacity__c": 43,
+      "City__c": "Hickman",
+      "End__c": "2021-04-01T15:20:41.000+0000",
+      "Location_Name__c": "Network Security, Inc.",
+      "Phone__c": "(336) 983-1936",
+      "Postal_Code__c": "68372",
+      "Start__c": "2021-04-01T15:20:41.000+0000",
+      "State__c": "NE"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef186"
+      },
+      "Address_1__c": "975 Essex Court",
+      "Name": "Liseran purple",
+      "Cat_Capacity__c": -50,
+      "Dog_Capacity__c": -107,
+      "City__c": "North Jackson",
+      "End__c": "2011-07-04T11:01:14.000+0000",
+      "Location_Name__c": "The Events Services Company",
+      "Phone__c": "(806) 757-1310",
+      "Postal_Code__c": "44451",
+      "Start__c": "2011-07-04T11:01:14.000+0000",
+      "State__c": "OH"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef187"
+      },
+      "Address_1__c": "93 River Road",
+      "Address_2__c": "Unit 1425",
+      "Name": "Cadmium orange",
+      "Cat_Capacity__c": -112,
+      "Dog_Capacity__c": -103,
+      "City__c": "Humboldt",
+      "End__c": "2010-05-19T15:46:18.000+0000",
+      "Location_Name__c": "Photography Corp.",
+      "Phone__c": "(223) 558-1370",
+      "Postal_Code__c": "86329",
+      "Start__c": "2010-05-19T15:46:18.000+0000",
+      "State__c": "AZ"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef188"
+      },
+      "Address_1__c": "88720 Holly Drive",
+      "Name": "Hunter green",
+      "Cat_Capacity__c": 80,
+      "Dog_Capacity__c": -21,
+      "City__c": "Brea",
+      "End__c": "2023-02-21T01:43:38.000+0000",
+      "Location_Name__c": "Fitness Co.",
+      "Phone__c": "(872) 250-2821",
+      "Postal_Code__c": "92822",
+      "Start__c": "2023-02-21T01:43:38.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef189"
+      },
+      "Address_1__c": "35755 Summit Street",
+      "Name": "Chinese red",
+      "Cat_Capacity__c": 75,
+      "Dog_Capacity__c": -29,
+      "City__c": "Crouse",
+      "End__c": "2020-06-11T05:04:14.000+0000",
+      "Location_Name__c": "Travel, Incorporated",
+      "Phone__c": "(984) 734-5921",
+      "Postal_Code__c": "28033",
+      "Start__c": "2020-06-11T05:04:14.000+0000",
+      "State__c": "NC"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef190"
+      },
+      "Address_1__c": "38974 Center Street",
+      "Name": "Persian orange",
+      "Cat_Capacity__c": -35,
+      "Dog_Capacity__c": -23,
+      "City__c": "Hoven",
+      "End__c": "2018-04-08T06:11:31.000+0000",
+      "Location_Name__c": "Biotechnology, Inc.",
+      "Phone__c": "(346) 451-2321",
+      "Postal_Code__c": "57450",
+      "Start__c": "2018-04-08T06:11:31.000+0000",
+      "State__c": "SD"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef191"
+      },
+      "Address_1__c": "252 Colonial Drive",
+      "Name": "English vermillion",
+      "Cat_Capacity__c": 35,
+      "Dog_Capacity__c": -99,
+      "City__c": "Kimberly",
+      "End__c": "2016-05-14T02:42:30.000+0000",
+      "Location_Name__c": "Wireless Co.",
+      "Phone__c": "(754) 911-4812",
+      "Postal_Code__c": "25118",
+      "Start__c": "2016-05-14T02:42:30.000+0000",
+      "State__c": "WV"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef192"
+      },
+      "Address_1__c": "54 Highland Avenue",
+      "Address_2__c": "Unit 1013",
+      "Name": "Egyptian blue",
+      "Cat_Capacity__c": 43,
+      "Dog_Capacity__c": -29,
+      "City__c": "Aptos",
+      "End__c": "2023-04-10T18:49:23.000+0000",
+      "Location_Name__c": "Mortgages Corp.",
+      "Phone__c": "(858) 537-8927",
+      "Postal_Code__c": "95001",
+      "Start__c": "2023-04-10T18:49:23.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef193"
+      },
+      "Address_1__c": "13359 Walnut Street",
+      "Name": "Chartreuse",
+      "Cat_Capacity__c": 11,
+      "Dog_Capacity__c": -60,
+      "City__c": "Tangier",
+      "End__c": "2015-06-11T06:47:59.000+0000",
+      "Location_Name__c": "Wholesale, Inc.",
+      "Phone__c": "(407) 066-8627",
+      "Postal_Code__c": "23440",
+      "Start__c": "2015-06-11T06:47:59.000+0000",
+      "State__c": "VA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef194"
+      },
+      "Address_1__c": "2947 Meadow Lane",
+      "Address_2__c": "Apt 2418",
+      "Name": "Imperial red",
+      "Cat_Capacity__c": 4,
+      "Dog_Capacity__c": -46,
+      "City__c": "Kalkaska",
+      "End__c": "2022-02-15T14:05:43.000+0000",
+      "Location_Name__c": "Hospitality, Incorporated",
+      "Phone__c": "(856) 645-1504",
+      "Postal_Code__c": "49646",
+      "Start__c": "2022-02-15T14:05:43.000+0000",
+      "State__c": "MI"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef195"
+      },
+      "Address_1__c": "21201 Summit Street",
+      "Address_2__c": "Unit 1524",
+      "Name": "Sapphire blue",
+      "Cat_Capacity__c": 43,
+      "Dog_Capacity__c": -29,
+      "City__c": "Louisville",
+      "End__c": "2018-04-08T01:49:05.000+0000",
+      "Location_Name__c": "Mortgages, LLC",
+      "Phone__c": "(571) 163-4595",
+      "Postal_Code__c": "40217",
+      "Start__c": "2018-04-08T01:49:05.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef196"
+      },
+      "Address_1__c": "27778 Main Street South",
+      "Name": "Light yellow",
+      "Cat_Capacity__c": -24,
+      "Dog_Capacity__c": -110,
+      "City__c": "Fort Gaines",
+      "End__c": "2023-05-18T01:50:25.000+0000",
+      "Location_Name__c": "Web Design, Ltd.",
+      "Phone__c": "(702) 201-4880",
+      "Postal_Code__c": "31751",
+      "Start__c": "2023-05-18T01:50:25.000+0000",
+      "State__c": "GA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef197"
+      },
+      "Address_1__c": "4293 Creek Road",
+      "Name": "Antique brass",
+      "Cat_Capacity__c": -46,
+      "Dog_Capacity__c": 114,
+      "City__c": "San Diego",
+      "End__c": "2022-05-07T15:28:08.000+0000",
+      "Location_Name__c": "The International Trade Company",
+      "Phone__c": "(806) 214-0592",
+      "Postal_Code__c": "92192",
+      "Start__c": "2022-05-07T15:28:08.000+0000",
+      "State__c": "CA"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef198"
+      },
+      "Address_1__c": "546 Highland Avenue",
+      "Name": "Forest green",
+      "Cat_Capacity__c": 57,
+      "Dog_Capacity__c": -115,
+      "City__c": "Eastern",
+      "End__c": "2013-11-09T01:28:18.000+0000",
+      "Location_Name__c": "Insurance, Inc.",
+      "Phone__c": "(301) 192-0777",
+      "Postal_Code__c": "41622",
+      "Start__c": "2013-11-09T01:28:18.000+0000",
+      "State__c": "KY"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef199"
+      },
+      "Address_1__c": "982 Hillcrest Drive",
+      "Name": "Malachite",
+      "Cat_Capacity__c": -124,
+      "Dog_Capacity__c": 45,
+      "City__c": "Pierce",
+      "End__c": "2016-10-20T04:33:24.000+0000",
+      "Location_Name__c": "Crafts, Incorporated",
+      "Phone__c": "(916) 774-8879",
+      "Postal_Code__c": "83546",
+      "Start__c": "2016-10-20T04:33:24.000+0000",
+      "State__c": "ID"
+    },
+    {
+      "attributes": {
+        "type": "Adoption_Event__c",
+        "referenceId": "Adoption_Event__cRef200"
+      },
+      "Address_1__c": "102 4th Avenue",
+      "Name": "Xanadu",
+      "Cat_Capacity__c": 88,
+      "Dog_Capacity__c": -67,
+      "City__c": "Fairfax",
+      "End__c": "2022-10-10T21:36:46.000+0000",
+      "Location_Name__c": "Photography Co.",
+      "Phone__c": "(619) 660-4196",
+      "Postal_Code__c": "29827",
+      "Start__c": "2022-10-10T21:36:46.000+0000",
+      "State__c": "SC"
+    }
+  ]
+}

@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "description": "Salesforce App",
   "scripts": {
-    "dcPermUpdate": "node scripts/updateDCConnectorPerms.js",
+    "createAEVData": "node scripts/js/updateAdoption_Event_Volunteer.cjs",
+    "deleteAEVData": "node scripts/js/deleteAdoption_Event_Volunteer.cjs",
+    "dcPermUpdate": "node scripts/js/updateDCConnectorPerms.js",
     "lint": "eslint **/{aura,lwc}/**/*.js",
     "test": "npm run test:unit",
     "test:unit": "sfdx-lwc-jest",
@@ -26,6 +28,7 @@
     "eslint": "^8.11.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jest": "^27.6.0",
+    "fast-csv": "^5.0.1",
     "husky": "^8.0.3",
     "lint-staged": "^15.1.0",
     "prettier": "^3.1.0",
